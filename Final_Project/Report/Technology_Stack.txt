@@ -1,0 +1,55 @@
+TECHNOLOGY STACK
+============================================================
+
+The project uses a combination of SQL, Python, SQLite, CSV
+files, and VS Code to implement the complete revenue analysis
+workflow.
+
+1. Python
+------------------------------------------------------------
+Python is used for dataset generation, revenue calculations,
+month-on-month growth analysis, validation, data masking,
+narrative generation, and agent processing.
+
+2. Pandas
+------------------------------------------------------------
+Pandas is used for reading, processing, validating, and
+analyzing CSV-based analytical results.
+
+3. SQLite
+------------------------------------------------------------
+SQLite is used as the local relational database for storing
+and querying the reseller order data.
+
+Database:
+meesho.db
+
+4. SQL
+------------------------------------------------------------
+SQL is used to generate business reports and perform
+aggregations, filtering, grouping, ordering, and calculations.
+
+5. Visual Studio Code
+------------------------------------------------------------
+VS Code is used as the main development environment for
+creating and running the Python scripts, SQL files, and
+project documentation.
+
+6. CSV
+------------------------------------------------------------
+CSV files are used as structured outputs between different
+stages of the project, including SQL reports and Growth Engine
+results.
+
+7. Markdown / Text Documentation
+------------------------------------------------------------
+Markdown and text files are used to document agent rules,
+narrative requirements, test results, and project methodology.
+
+8. Local Revenue Analysis Agent
+------------------------------------------------------------
+A local/mock revenue analysis agent is implemented in Python.
+It consumes verified Growth Engine results and generates
+structured business narratives.
+
+No external AI API is required for the current implementation.

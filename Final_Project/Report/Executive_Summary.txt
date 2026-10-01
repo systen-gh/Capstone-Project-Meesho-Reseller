@@ -1,0 +1,37 @@
+EXECUTIVE SUMMARY
+============================================================
+
+This capstone project presents a data-driven revenue analysis
+system for a Meesho reseller business. The project transforms
+reseller order data into structured SQL reports, month-on-month
+growth analysis, reliable business narratives, and a validated
+revenue analysis agent.
+
+The dataset contains 900 orders covering April, May, and June
+2026, involving 24 resellers across four regions and five
+product categories. SQL and Python were used to perform data
+analysis, calculate revenue and performance measures, and
+identify significant month-on-month category movements.
+
+The project is organized into four major stages. Part 1 uses
+SQLite and SQL queries to generate business reports such as
+monthly category revenue, regional revenue, top reseller
+spending, zero-order analysis, and June average order value
+for delivered orders.
+
+Part 2 introduces a Growth Engine that calculates month-on-month
+revenue growth and applies a defined threshold-based flagging
+rule. Part 3 focuses on reliable business narratives, data
+validation, reseller ID masking, and appropriate chart selection.
+
+Part 4 implements a local revenue analysis agent that consumes
+verified Growth Engine results and generates structured
+Context, Insight, Implication, and Validation sections. The
+agent was tested using both positive and negative test cases.
+The final validation confirmed that the expected categories,
+growth percentages, and output file were correctly identified.
+
+The project demonstrates a complete workflow from raw order data
+to verified analytical output and reliable business communication.
+It also emphasizes data accuracy, privacy, validation, and the
+avoidance of unsupported business assumptions.

@@ -1,0 +1,133 @@
+PROJECT ARCHITECTURE
+============================================================
+
+The project follows a sequential data-to-insight architecture.
+Each stage uses the verified output of the previous stage.
+
+                         SOURCE DATA
+                             |
+                             v
+                 +-----------------------+
+                 |     PART 1 — SQL      |
+                 |    Business Analysis  |
+                 +-----------------------+
+                             |
+                             v
+                 +-----------------------+
+                 |   PART 2 — GROWTH     |
+                 |       ENGINE          |
+                 |                       |
+                 | MoM Growth + Flagging |
+                 +-----------------------+
+                             |
+                             v
+                 +-----------------------+
+                 | PART 3 — RELIABLE AI  |
+                 |      NARRATIVE        |
+                 |                       |
+                 | Context / Insight /   |
+                 | Implication / Checks  |
+                 +-----------------------+
+                             |
+                             v
+                 +-----------------------+
+                 | PART 4 — REVENUE      |
+                 |   ANALYSIS AGENT      |
+                 |                       |
+                 | Narrative Generation  |
+                 | + Reliability Tests   |
+                 +-----------------------+
+                             |
+                             v
+                    VERIFIED BUSINESS
+                        OUTPUTS
+
+
+PART 1 — SQL ANALYSIS
+------------------------------------------------------------
+
+The raw order data is stored in the SQLite database
+meesho.db. SQL queries are used to produce verified business
+reports covering revenue, orders, categories, regions,
+reseller spending, and AOV.
+
+
+PART 2 — GROWTH ENGINE
+------------------------------------------------------------
+
+The Growth Engine reads verified revenue results and calculates
+month-on-month growth percentages.
+
+A threshold-based rule is then applied:
+
+Growth > 8%       → flagged
+Growth = 8%       → escalate_exact_boundary
+Growth < 8%       → not_flagged
+
+
+PART 3 — RELIABLE AI NARRATIVE
+------------------------------------------------------------
+
+Flagged analytical results are converted into concise business
+narratives.
+
+The narrative structure consists of:
+
+Context
+Insight
+Implication
+
+Validation checks are used to ensure that the narrative remains
+consistent with the verified numerical results.
+
+Data masking is also applied to reseller identifiers where
+required.
+
+
+PART 4 — REVENUE ANALYSIS AGENT
+------------------------------------------------------------
+
+The local revenue analysis agent consumes the verified Growth
+Engine CSV and generates structured narratives.
+
+The agent performs:
+
+- Input validation
+- Category identification
+- Revenue comparison
+- MoM growth reporting
+- Narrative generation
+- Output validation
+- Reliability testing
+
+
+DATA FLOW
+------------------------------------------------------------
+
+Raw Order Data
+      ↓
+SQLite Database
+      ↓
+SQL Business Reports
+      ↓
+Verified Revenue Results
+      ↓
+Python Growth Engine
+      ↓
+Flagged Categories
+      ↓
+Reliable Narrative
+      ↓
+Revenue Analysis Agent
+      ↓
+Validated Business Report
+
+
+RELIABILITY PRINCIPLE
+------------------------------------------------------------
+
+The architecture is designed so that downstream stages depend
+on verified upstream results.
+
+This reduces the risk of introducing unsupported figures or
+business explanations during narrative generation.

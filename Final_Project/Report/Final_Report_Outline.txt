@@ -1,0 +1,157 @@
+CAPSTONE PROJECT — FINAL REPORT OUTLINE
+============================================================
+
+Title:
+Meesho Reseller Revenue Analysis and Reliable AI Narrative System
+
+
+1. EXECUTIVE SUMMARY
+------------------------------------------------------------
+Brief overview of the project, business objective, analytical
+approach, and final outcome.
+
+
+2. BUSINESS PROBLEM
+------------------------------------------------------------
+Explain the need to analyze reseller orders, revenue,
+month-on-month performance, category movements, and regional
+performance.
+
+
+3. PROJECT OBJECTIVES
+------------------------------------------------------------
+- Analyze reseller order and revenue data.
+- Generate reliable SQL-based business reports.
+- Calculate month-on-month revenue growth.
+- Identify significant category movements.
+- Generate evidence-based business narratives.
+- Apply data masking for reseller information.
+- Build and test a reliable revenue analysis agent.
+
+
+4. DATASET DESCRIPTION
+------------------------------------------------------------
+- 900 orders.
+- April, May, and June 2026.
+- 24 resellers.
+- 4 regions.
+- 3 cities per region.
+- 5 product categories.
+- Order status information.
+- Revenue and order-related measures.
+
+
+5. TECHNOLOGY STACK
+------------------------------------------------------------
+- Python
+- Pandas
+- SQLite
+- SQL
+- VS Code
+- CSV
+- Local/mock revenue analysis agent
+
+
+6. PROJECT ARCHITECTURE
+------------------------------------------------------------
+Source Data
+     ↓
+Part 1 — SQL Analysis
+     ↓
+Part 2 — Growth Engine
+     ↓
+Part 3 — Reliable AI Narrative
+     ↓
+Part 4 — Revenue Analysis Agent
+     ↓
+Validated Business Output
+
+
+7. PART 1 — SQL ANALYSIS
+------------------------------------------------------------
+7.1 Data structure
+7.2 Data quality checks
+7.3 Monthly category revenue
+7.4 Region-wise revenue and order count
+7.5 Top 5 resellers by spend
+7.6 Zero-order reseller analysis
+7.7 June AOV — delivered orders only
+
+
+8. PART 2 — GROWTH ENGINE
+------------------------------------------------------------
+8.1 MoM growth calculation
+8.2 Flagging rule
+8.3 Category-level analysis
+8.4 May flagged categories
+8.5 June flagged categories
+8.6 Growth Engine validation
+
+
+9. PART 3 — RELIABLE AI NARRATIVE
+------------------------------------------------------------
+9.1 Narrative objective
+9.2 Context
+9.3 Insight
+9.4 Implication
+9.5 Validation checklist
+9.6 Data masking
+9.7 Chart-choice justification
+
+
+10. PART 4 — RELIABLE REVENUE ANALYSIS AGENT
+------------------------------------------------------------
+10.1 Agent purpose
+10.2 Agent specification
+10.3 Input validation
+10.4 Narrative generation
+10.5 Output generation
+10.6 Positive testing
+10.7 Negative testing
+10.8 Final validation
+
+
+11. KEY VERIFIED FINDINGS
+------------------------------------------------------------
+Include only findings supported by the project's verified
+outputs.
+
+
+12. DATA PRIVACY AND RELIABILITY
+------------------------------------------------------------
+Explain reseller ID masking, validation, safe handling of
+missing inputs, and avoidance of unsupported business causes.
+
+
+13. LIMITATIONS
+------------------------------------------------------------
+Document limitations of the dataset, analysis, masking,
+and local/mock agent implementation.
+
+
+14. FUTURE ENHANCEMENTS
+------------------------------------------------------------
+Possible future improvements such as:
+- External AI API integration.
+- Automated dashboards.
+- Additional business KPIs.
+- More detailed reseller performance analysis.
+- Automated scheduled reporting.
+
+
+15. CONCLUSION
+------------------------------------------------------------
+Summarize how the project converts raw reseller order data
+into verified analytical and narrative business insights.
+
+
+16. APPENDIX
+------------------------------------------------------------
+Include relevant:
+- SQL queries
+- Python scripts
+- CSV outputs
+- Agent specifications
+- Test results
+- Screenshots
+- Evidence files

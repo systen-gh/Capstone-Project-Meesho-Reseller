@@ -1,0 +1,55 @@
+MEESHO RESELLER CAPSTONE PROJECT
+FINAL EVIDENCE CHECKLIST
+
+1. PROJECT SETUP
+[ ] Project folder created
+[ ] Python environment / dependencies verified
+[ ] SQLite database created
+[ ] README.md completed
+
+2. PART 1 — SQL ANALYSIS
+[ ] Dataset generated
+[ ] 900 orders verified
+[ ] Duplicate Order IDs checked
+[ ] Monthly Category Revenue completed
+[ ] Region-wise Revenue and Order Count completed
+[ ] Top 5 Resellers report completed
+[ ] June AOV — Delivered Orders Only completed
+
+3. PART 2 — GROWTH ENGINE
+[ ] MoM growth function completed
+[ ] 8% flagging rule implemented
+[ ] Category-wise MoM results generated
+[ ] Growth validation passed
+[ ] May flagged categories verified
+[ ] June flagged category verified
+
+4. PART 3 — RELIABLE AI NARRATIVE
+[ ] Narrative prompt completed
+[ ] Context / Insight / Implication structure completed
+[ ] Data masking implemented
+[ ] Masked output generated
+[ ] Chart-choice justification completed
+
+5. PART 4 — REVENUE ANALYSIS AGENT
+[ ] Agent specification completed
+[ ] Agent runner completed
+[ ] Agent output generated
+[ ] Positive validation test passed
+[ ] Negative test completed
+[ ] Safe-stop behavior verified
+
+6. FINAL DOCUMENTATION
+[ ] Final_Report_Master.md completed
+[ ] Final PDF report completed
+[ ] PowerPoint presentation completed
+[ ] README.md completed
+[ ] Evidence checklist completed
+
+7. FINAL VALIDATION
+[ ] Complete pipeline reviewed
+[ ] Verified numbers checked
+[ ] No unsupported business causes added
+[ ] Privacy/masking limitations documented
+[ ] Limitations and future enhancements documented
+[ ] Zero API key architecture documented

@@ -1,0 +1,293 @@
+LIMITATIONS AND FUTURE ENHANCEMENTS
+===================================
+
+Meesho Reseller — Reliable Revenue Analytics Capstone Project
+
+
+1. CURRENT PROJECT LIMITATIONS
+------------------------------
+
+The current project successfully demonstrates the complete analytics workflow, but several limitations should be considered when interpreting the results.
+
+
+1.1 SIMULATED DATASET
+
+The project uses a generated reseller order dataset.
+
+The data is designed for educational and demonstration purposes and does not represent actual Meesho business transactions.
+
+Therefore, the revenue findings should not be interpreted as real-world Meesho business performance.
+
+
+1.2 LIMITED ANALYSIS PERIOD
+
+The dataset covers only:
+
+April 2026
+May 2026
+June 2026
+
+A three-month period provides a limited basis for identifying longer-term trends or seasonal patterns.
+
+
+1.3 LIMITED BUSINESS VARIABLES
+
+The current dataset focuses mainly on order and revenue information.
+
+Additional business variables such as:
+
+- Marketing spend
+- Discount information
+- Inventory levels
+- Product availability
+- Customer acquisition
+- Customer demographics
+- Advertising performance
+
+are not included.
+
+
+1.4 LOCAL / MOCK AGENT
+
+The Part 4 Revenue Analysis Agent is implemented locally as a mock agent.
+
+It demonstrates agent workflow, validation and safe-failure principles but does not use an external Large Language Model API.
+
+
+1.5 NO REAL-TIME DATA
+
+The project operates on locally stored data.
+
+It does not connect to a live business database or real-time transaction system.
+
+
+1.6 LIMITED CAUSE ANALYSIS
+
+The project identifies revenue movements but does not automatically determine the underlying business cause.
+
+For example, an increase in category revenue does not automatically prove that the increase was caused by:
+
+- Higher demand
+- Pricing changes
+- Marketing campaigns
+- Product availability
+- Increased reseller activity
+
+Additional evidence would be required to establish such relationships.
+
+
+1.7 MASKING LIMITATION
+
+The project masks reseller identifiers for downstream analysis.
+
+However, the original-to-masked mapping is retained separately.
+
+Therefore, the process should be considered identifier masking or pseudonymization rather than complete anonymization.
+
+
+2. FUTURE ENHANCEMENTS
+----------------------
+
+
+2.1 PRODUCTION DATABASE INTEGRATION
+
+The SQLite database could be replaced or supplemented by a production database such as:
+
+- Microsoft SQL Server
+- PostgreSQL
+- MySQL
+
+This would allow the solution to operate on larger and continuously updated datasets.
+
+
+2.2 AUTOMATED DATA PIPELINE
+
+The complete workflow could be automated so that:
+
+New Data
+    ↓
+Data Validation
+    ↓
+SQL Analysis
+    ↓
+Growth Calculation
+    ↓
+Flagging
+    ↓
+Narrative Generation
+    ↓
+Report Distribution
+
+runs automatically according to a defined schedule.
+
+
+2.3 DASHBOARD DEVELOPMENT
+
+The analytical outputs could be connected to a dashboarding platform such as:
+
+- Power BI
+- Tableau
+- Python-based dashboards
+
+Potential dashboard components could include:
+
+- Monthly revenue
+- Category revenue
+- Regional revenue
+- MoM growth
+- Flagged categories
+- Order status distribution
+- Reseller performance
+
+
+2.4 REAL AI MODEL INTEGRATION
+
+The local/mock narrative agent could be extended to use an external Large Language Model.
+
+A production implementation should retain the current validation and guardrail approach.
+
+The proposed workflow would be:
+
+Verified Data
+      ↓
+Validation
+      ↓
+AI Narrative Generation
+      ↓
+Fact Verification
+      ↓
+Business Output
+
+
+2.5 ADVANCED ANOMALY DETECTION
+
+Future versions could identify unusual revenue movements using statistical or machine-learning methods.
+
+Possible techniques include:
+
+- Moving averages
+- Standard deviation analysis
+- Z-score detection
+- Time-series analysis
+- Machine-learning anomaly detection
+
+
+2.6 MORE DETAILED KPI ANALYSIS
+
+Additional KPIs could be introduced, such as:
+
+- Average Order Value
+- Orders per reseller
+- Revenue per reseller
+- Return rate
+- Cancellation rate
+- Delivered order rate
+- Category contribution
+- Regional contribution
+- Reseller growth rate
+
+
+2.7 AUTOMATED ALERTING
+
+The system could automatically notify management when defined conditions are detected.
+
+For example:
+
+Revenue movement
+      ↓
+Threshold evaluation
+      ↓
+Flag generated
+      ↓
+Management notification
+
+
+2.8 ROLE-BASED ACCESS CONTROL
+
+A production version could introduce different access levels for:
+
+- Administrators
+- Finance users
+- Management
+- Analysts
+- IT support
+
+
+2.9 ENHANCED DATA PRIVACY
+
+Future implementations could introduce additional privacy controls such as:
+
+- Encryption
+- Access control
+- Secure key management
+- Audit logging
+- Data retention policies
+
+
+2.10 AUTOMATED REPORT GENERATION
+
+The final analytical outputs could be automatically converted into:
+
+- PDF reports
+- Excel reports
+- PowerPoint presentations
+- Email summaries
+
+This would reduce manual reporting effort.
+
+
+3. FUTURE PRODUCTION ARCHITECTURE
+---------------------------------
+
+A possible production architecture could be:
+
+Production Database
+        ↓
+Data Validation
+        ↓
+ETL / Data Processing
+        ↓
+SQL Analytics
+        ↓
+Growth & KPI Engine
+        ↓
+Rule-Based Flagging
+        ↓
+Privacy / Masking Layer
+        ↓
+AI Narrative Layer
+        ↓
+Validation Layer
+        ↓
+Dashboard / Reports / Alerts
+
+
+4. EXPECTED BENEFITS OF FUTURE ENHANCEMENTS
+--------------------------------------------
+
+Future enhancements could provide:
+
+- More frequent analysis
+- Larger datasets
+- Real-time or near-real-time reporting
+- Improved monitoring
+- Better business visibility
+- Automated management reporting
+- Stronger privacy controls
+- More advanced anomaly detection
+- Integration with enterprise systems
+
+
+5. CONCLUSION
+-------------
+
+The current project provides a complete local demonstration of a reliable revenue analytics workflow.
+
+Future development can extend the same architecture into a production-grade analytics and AI-assisted reporting solution while preserving the project's core principles of:
+
+- Verified data
+- Validation
+- Traceability
+- Privacy
+- Controlled automation
+- Safe failure

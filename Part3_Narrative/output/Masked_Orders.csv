@@ -1,0 +1,901 @@
+order_id,order_date,reseller_id,region,city,category,quantity,unit_price,order_amount,order_status,revenue
+ORD0001,2026-04-09 07:14:08,Reseller_021,West,Ahmedabad,Ethnic Wear,1,3545.15,3545.15,Delivered,3545.15
+ORD0002,2026-04-02 00:05:13,Reseller_018,East,Guwahati,Ethnic Wear,2,2774.1,5548.2,Delivered,5548.2
+ORD0003,2026-04-21 22:34:26,Reseller_001,North,Delhi,Beauty & Personal Care,2,1178.1,2356.2,Delivered,2356.2
+ORD0004,2026-04-06 22:27:21,Reseller_009,South,Hyderabad,Ethnic Wear,3,1199.66,3598.98,Returned,3598.9800000000005
+ORD0005,2026-04-04 11:54:22,Reseller_011,South,Bengaluru,Ethnic Wear,5,1690.34,8451.7,Delivered,8451.699999999999
+ORD0006,2026-04-30 12:05:35,Reseller_002,North,Jaipur,Home & Kitchen,3,5027.61,15082.83,Delivered,15082.829999999998
+ORD0007,2026-04-23 02:02:42,Reseller_020,West,Pune,Kids Wear,2,1978.06,3956.12,Delivered,3956.12
+ORD0008,2026-04-13 08:29:40,Reseller_003,North,Lucknow,Western Wear,3,985.55,2956.65,Cancelled,2956.6499999999996
+ORD0009,2026-04-23 21:41:04,Reseller_012,South,Hyderabad,Western Wear,5,2685.92,13429.6,Delivered,13429.6
+ORD0010,2026-04-13 08:59:40,Reseller_018,East,Guwahati,Western Wear,5,1190.61,5953.05,Delivered,5953.049999999999
+ORD0011,2026-04-02 10:25:17,Reseller_011,South,Bengaluru,Ethnic Wear,1,1449.42,1449.42,Delivered,1449.42
+ORD0012,2026-04-16 12:56:58,Reseller_019,West,Mumbai,Kids Wear,4,528.6,2114.4,Delivered,2114.4
+ORD0013,2026-04-18 08:47:37,Reseller_005,North,Jaipur,Western Wear,4,3632.16,14528.64,Returned,14528.64
+ORD0014,2026-04-05 16:31:05,Reseller_013,East,Kolkata,Kids Wear,1,2180.54,2180.54,Delivered,2180.54
+ORD0015,2026-04-14 19:04:24,Reseller_005,North,Jaipur,Western Wear,4,2545.2,10180.8,Returned,10180.8
+ORD0016,2026-04-18 00:43:46,Reseller_015,East,Guwahati,Beauty & Personal Care,1,1736.1,1736.1,Delivered,1736.1
+ORD0017,2026-04-11 03:18:27,Reseller_018,East,Guwahati,Kids Wear,2,1243.56,2487.12,Returned,2487.12
+ORD0018,2026-04-25 05:32:58,Reseller_024,West,Ahmedabad,Kids Wear,1,2202.19,2202.19,Pending,2202.19
+ORD0019,2026-04-05 11:48:10,Reseller_010,South,Chennai,Beauty & Personal Care,5,2388.4,11942.0,Delivered,11942.0
+ORD0020,2026-04-16 00:07:59,Reseller_017,East,Bhubaneswar,Ethnic Wear,3,4454.25,13362.75,Delivered,13362.75
+ORD0021,2026-04-29 18:05:05,Reseller_010,South,Chennai,Western Wear,4,3337.68,13350.72,Delivered,13350.72
+ORD0022,2026-04-16 17:10:16,Reseller_018,East,Guwahati,Western Wear,5,3540.76,17703.8,Delivered,17703.800000000003
+ORD0023,2026-04-25 23:44:12,Reseller_014,East,Bhubaneswar,Western Wear,3,1836.37,5509.11,Cancelled,5509.11
+ORD0024,2026-04-17 14:07:15,Reseller_022,West,Mumbai,Kids Wear,2,347.26,694.52,Delivered,694.52
+ORD0025,2026-04-19 07:00:04,Reseller_001,North,Delhi,Beauty & Personal Care,1,649.46,649.46,Delivered,649.46
+ORD0026,2026-04-08 08:42:31,Reseller_002,North,Jaipur,Kids Wear,2,1440.24,2880.48,Delivered,2880.48
+ORD0027,2026-04-08 15:51:26,Reseller_024,West,Ahmedabad,Beauty & Personal Care,2,326.38,652.76,Delivered,652.76
+ORD0028,2026-04-14 14:55:46,Reseller_022,West,Mumbai,Home & Kitchen,1,4138.18,4138.18,Delivered,4138.18
+ORD0029,2026-04-24 10:51:55,Reseller_021,West,Ahmedabad,Ethnic Wear,1,1618.95,1618.95,Delivered,1618.95
+ORD0030,2026-04-14 05:17:29,Reseller_007,South,Chennai,Beauty & Personal Care,2,2198.77,4397.54,Delivered,4397.54
+ORD0031,2026-04-28 17:06:03,Reseller_003,North,Lucknow,Home & Kitchen,5,5065.36,25326.8,Returned,25326.8
+ORD0032,2026-04-16 15:13:55,Reseller_003,North,Lucknow,Western Wear,4,3648.79,14595.16,Delivered,14595.16
+ORD0033,2026-04-13 08:59:50,Reseller_006,North,Lucknow,Home & Kitchen,4,1925.92,7703.68,Delivered,7703.68
+ORD0034,2026-04-16 04:12:18,Reseller_023,West,Pune,Beauty & Personal Care,2,2424.9,4849.8,Delivered,4849.8
+ORD0035,2026-04-11 01:03:37,Reseller_019,West,Mumbai,Beauty & Personal Care,4,1306.84,5227.36,Delivered,5227.36
+ORD0036,2026-04-17 02:54:11,Reseller_017,East,Bhubaneswar,Western Wear,1,2542.13,2542.13,Delivered,2542.13
+ORD0037,2026-04-29 18:15:37,Reseller_022,West,Mumbai,Western Wear,5,543.07,2715.35,Delivered,2715.3500000000004
+ORD0038,2026-04-19 16:20:59,Reseller_003,North,Lucknow,Home & Kitchen,3,1464.28,4392.84,Delivered,4392.84
+ORD0039,2026-04-13 04:42:41,Reseller_023,West,Pune,Kids Wear,3,1251.62,3754.86,Delivered,3754.8599999999997
+ORD0040,2026-04-19 03:04:34,Reseller_003,North,Lucknow,Ethnic Wear,2,2776.48,5552.96,Delivered,5552.96
+ORD0041,2026-04-29 07:23:18,Reseller_005,North,Jaipur,Kids Wear,2,1207.82,2415.64,Cancelled,2415.64
+ORD0042,2026-04-26 20:33:00,Reseller_018,East,Guwahati,Kids Wear,5,888.57,4442.85,Delivered,4442.85
+ORD0043,2026-04-05 08:07:56,Reseller_022,West,Mumbai,Ethnic Wear,1,3840.88,3840.88,Cancelled,3840.88
+ORD0044,2026-04-07 22:21:13,Reseller_005,North,Jaipur,Kids Wear,3,1362.44,4087.32,Delivered,4087.32
+ORD0045,2026-04-14 08:02:00,Reseller_009,South,Hyderabad,Ethnic Wear,3,3970.04,11910.12,Delivered,11910.119999999999
+ORD0046,2026-04-15 17:45:27,Reseller_021,West,Ahmedabad,Kids Wear,5,222.24,1111.2,Delivered,1111.2
+ORD0047,2026-04-27 11:37:35,Reseller_003,North,Lucknow,Western Wear,2,1947.23,3894.46,Delivered,3894.46
+ORD0048,2026-04-30 01:57:22,Reseller_002,North,Jaipur,Kids Wear,2,1768.75,3537.5,Delivered,3537.5
+ORD0049,2026-04-18 13:39:47,Reseller_022,West,Mumbai,Ethnic Wear,2,4665.94,9331.88,Delivered,9331.88
+ORD0050,2026-04-26 05:56:26,Reseller_008,South,Bengaluru,Western Wear,1,1045.7,1045.7,Pending,1045.7
+ORD0051,2026-04-28 23:51:15,Reseller_011,South,Bengaluru,Home & Kitchen,3,1207.43,3622.29,Returned,3622.29
+ORD0052,2026-04-02 15:14:12,Reseller_023,West,Pune,Ethnic Wear,4,2073.46,8293.84,Delivered,8293.84
+ORD0053,2026-04-07 12:21:17,Reseller_008,South,Bengaluru,Western Wear,1,3880.8,3880.8,Delivered,3880.8
+ORD0054,2026-04-13 21:53:34,Reseller_009,South,Hyderabad,Kids Wear,3,2360.25,7080.75,Delivered,7080.75
+ORD0055,2026-04-09 01:06:38,Reseller_004,North,Delhi,Kids Wear,4,995.08,3980.32,Delivered,3980.32
+ORD0056,2026-04-17 03:24:57,Reseller_011,South,Bengaluru,Home & Kitchen,5,1383.45,6917.25,Delivered,6917.25
+ORD0057,2026-04-30 17:43:46,Reseller_002,North,Jaipur,Home & Kitchen,2,2376.06,4752.12,Delivered,4752.12
+ORD0058,2026-04-22 03:46:57,Reseller_003,North,Lucknow,Kids Wear,3,1366.38,4099.14,Delivered,4099.14
+ORD0059,2026-04-23 09:35:08,Reseller_022,West,Mumbai,Home & Kitchen,2,2696.54,5393.08,Delivered,5393.08
+ORD0060,2026-04-10 12:35:53,Reseller_013,East,Kolkata,Western Wear,1,1493.95,1493.95,Delivered,1493.95
+ORD0061,2026-04-20 20:20:29,Reseller_007,South,Chennai,Home & Kitchen,4,2820.31,11281.24,Returned,11281.24
+ORD0062,2026-04-29 23:10:42,Reseller_007,South,Chennai,Beauty & Personal Care,1,781.09,781.09,Delivered,781.09
+ORD0063,2026-04-27 07:43:19,Reseller_022,West,Mumbai,Beauty & Personal Care,2,2035.75,4071.5,Delivered,4071.5
+ORD0064,2026-04-16 19:54:49,Reseller_005,North,Jaipur,Ethnic Wear,1,2549.37,2549.37,Delivered,2549.37
+ORD0065,2026-04-23 12:31:25,Reseller_021,West,Ahmedabad,Beauty & Personal Care,2,454.17,908.34,Delivered,908.34
+ORD0066,2026-04-28 03:49:27,Reseller_023,West,Pune,Ethnic Wear,2,1291.49,2582.98,Cancelled,2582.98
+ORD0067,2026-04-18 07:58:54,Reseller_023,West,Pune,Beauty & Personal Care,1,1195.51,1195.51,Delivered,1195.51
+ORD0068,2026-04-20 10:48:57,Reseller_015,East,Guwahati,Beauty & Personal Care,4,1570.37,6281.48,Pending,6281.48
+ORD0069,2026-04-30 17:28:57,Reseller_024,West,Ahmedabad,Beauty & Personal Care,2,1884.77,3769.54,Delivered,3769.54
+ORD0070,2026-04-08 20:17:49,Reseller_016,East,Kolkata,Home & Kitchen,5,3062.2,15311.0,Delivered,15311.0
+ORD0071,2026-04-23 09:15:17,Reseller_008,South,Bengaluru,Kids Wear,3,935.33,2805.99,Delivered,2805.9900000000002
+ORD0072,2026-04-08 12:44:09,Reseller_018,East,Guwahati,Ethnic Wear,2,789.03,1578.06,Delivered,1578.06
+ORD0073,2026-04-14 01:13:53,Reseller_014,East,Bhubaneswar,Kids Wear,4,1095.8,4383.2,Delivered,4383.2
+ORD0074,2026-04-25 18:24:30,Reseller_019,West,Mumbai,Ethnic Wear,1,4742.34,4742.34,Cancelled,4742.34
+ORD0075,2026-04-27 13:34:47,Reseller_010,South,Chennai,Home & Kitchen,5,4859.25,24296.25,Cancelled,24296.25
+ORD0076,2026-04-14 15:01:24,Reseller_008,South,Bengaluru,Home & Kitchen,3,4112.58,12337.74,Delivered,12337.74
+ORD0077,2026-04-30 04:39:34,Reseller_013,East,Kolkata,Western Wear,1,3664.94,3664.94,Returned,3664.94
+ORD0078,2026-04-03 20:27:08,Reseller_019,West,Mumbai,Beauty & Personal Care,4,536.15,2144.6,Delivered,2144.6
+ORD0079,2026-04-15 10:21:48,Reseller_009,South,Hyderabad,Home & Kitchen,4,1886.06,7544.24,Delivered,7544.24
+ORD0080,2026-04-16 00:47:34,Reseller_014,East,Bhubaneswar,Kids Wear,1,2499.79,2499.79,Returned,2499.79
+ORD0081,2026-04-25 20:02:48,Reseller_012,South,Hyderabad,Western Wear,1,3818.6,3818.6,Delivered,3818.6
+ORD0082,2026-04-08 04:30:42,Reseller_007,South,Chennai,Ethnic Wear,1,3037.86,3037.86,Delivered,3037.86
+ORD0083,2026-04-25 11:10:38,Reseller_007,South,Chennai,Home & Kitchen,5,5793.29,28966.45,Delivered,28966.45
+ORD0084,2026-04-06 09:06:37,Reseller_023,West,Pune,Ethnic Wear,1,4679.99,4679.99,Returned,4679.99
+ORD0085,2026-04-23 06:04:37,Reseller_019,West,Mumbai,Home & Kitchen,2,880.84,1761.68,Delivered,1761.68
+ORD0086,2026-04-26 18:50:02,Reseller_010,South,Chennai,Beauty & Personal Care,3,1378.59,4135.77,Returned,4135.7699999999995
+ORD0087,2026-04-21 10:00:54,Reseller_022,West,Mumbai,Kids Wear,4,2091.36,8365.44,Delivered,8365.44
+ORD0088,2026-04-21 14:45:09,Reseller_004,North,Delhi,Home & Kitchen,4,1303.98,5215.92,Pending,5215.92
+ORD0089,2026-04-30 17:49:30,Reseller_017,East,Bhubaneswar,Kids Wear,4,1201.82,4807.28,Delivered,4807.28
+ORD0090,2026-04-28 07:53:59,Reseller_024,West,Ahmedabad,Beauty & Personal Care,1,769.43,769.43,Delivered,769.43
+ORD0091,2026-04-19 19:42:24,Reseller_015,East,Guwahati,Western Wear,3,503.32,1509.96,Returned,1509.96
+ORD0092,2026-04-12 08:21:17,Reseller_011,South,Bengaluru,Western Wear,5,2924.26,14621.3,Delivered,14621.300000000001
+ORD0093,2026-04-07 02:15:46,Reseller_009,South,Hyderabad,Beauty & Personal Care,4,1272.59,5090.36,Delivered,5090.36
+ORD0094,2026-04-16 14:50:01,Reseller_008,South,Bengaluru,Home & Kitchen,1,1977.14,1977.14,Delivered,1977.14
+ORD0095,2026-04-19 11:30:35,Reseller_013,East,Kolkata,Western Wear,5,1637.53,8187.65,Delivered,8187.65
+ORD0096,2026-04-23 14:17:19,Reseller_024,West,Ahmedabad,Beauty & Personal Care,3,653.29,1959.87,Delivered,1959.87
+ORD0097,2026-04-24 17:48:44,Reseller_024,West,Ahmedabad,Western Wear,2,1089.55,2179.1,Delivered,2179.1
+ORD0098,2026-04-19 16:38:18,Reseller_024,West,Ahmedabad,Home & Kitchen,1,5045.98,5045.98,Delivered,5045.98
+ORD0099,2026-04-10 00:45:34,Reseller_010,South,Chennai,Western Wear,2,1387.52,2775.04,Delivered,2775.04
+ORD0100,2026-04-05 20:55:48,Reseller_002,North,Jaipur,Beauty & Personal Care,4,346.21,1384.84,Delivered,1384.84
+ORD0101,2026-04-16 14:21:11,Reseller_001,North,Delhi,Beauty & Personal Care,1,705.95,705.95,Delivered,705.95
+ORD0102,2026-04-13 15:04:36,Reseller_016,East,Kolkata,Ethnic Wear,1,1182.77,1182.77,Returned,1182.77
+ORD0103,2026-04-08 03:35:48,Reseller_019,West,Mumbai,Kids Wear,4,1594.53,6378.12,Delivered,6378.12
+ORD0104,2026-04-13 14:58:28,Reseller_020,West,Pune,Western Wear,3,3496.6,10489.8,Returned,10489.8
+ORD0105,2026-04-02 19:47:06,Reseller_014,East,Bhubaneswar,Kids Wear,2,1638.68,3277.36,Delivered,3277.36
+ORD0106,2026-04-06 17:04:10,Reseller_009,South,Hyderabad,Ethnic Wear,1,2338.33,2338.33,Delivered,2338.33
+ORD0107,2026-04-02 07:18:45,Reseller_023,West,Pune,Beauty & Personal Care,3,1787.17,5361.51,Delivered,5361.51
+ORD0108,2026-04-30 08:50:50,Reseller_015,East,Guwahati,Ethnic Wear,5,3475.32,17376.6,Delivered,17376.600000000002
+ORD0109,2026-04-08 20:09:58,Reseller_007,South,Chennai,Home & Kitchen,3,5011.8,15035.4,Delivered,15035.400000000001
+ORD0110,2026-04-10 19:47:52,Reseller_003,North,Lucknow,Ethnic Wear,5,4645.37,23226.85,Delivered,23226.85
+ORD0111,2026-04-10 22:25:17,Reseller_015,East,Guwahati,Ethnic Wear,5,2929.92,14649.6,Delivered,14649.6
+ORD0112,2026-04-29 13:47:20,Reseller_015,East,Guwahati,Ethnic Wear,5,1626.66,8133.3,Delivered,8133.3
+ORD0113,2026-04-27 18:37:01,Reseller_003,North,Lucknow,Western Wear,3,2474.49,7423.47,Pending,7423.469999999999
+ORD0114,2026-04-15 08:11:37,Reseller_006,North,Lucknow,Home & Kitchen,4,3918.27,15673.08,Delivered,15673.08
+ORD0115,2026-04-14 10:20:42,Reseller_016,East,Kolkata,Ethnic Wear,1,4359.8,4359.8,Delivered,4359.8
+ORD0116,2026-04-10 21:25:52,Reseller_011,South,Bengaluru,Home & Kitchen,5,509.17,2545.85,Delivered,2545.85
+ORD0117,2026-04-04 12:55:32,Reseller_003,North,Lucknow,Kids Wear,1,1712.62,1712.62,Delivered,1712.62
+ORD0118,2026-04-07 16:23:39,Reseller_018,East,Guwahati,Home & Kitchen,4,3864.83,15459.32,Delivered,15459.32
+ORD0119,2026-04-05 09:28:56,Reseller_002,North,Jaipur,Western Wear,4,837.13,3348.52,Delivered,3348.52
+ORD0120,2026-04-23 05:19:35,Reseller_021,West,Ahmedabad,Beauty & Personal Care,1,1425.4,1425.4,Returned,1425.4
+ORD0121,2026-04-30 03:29:07,Reseller_003,North,Lucknow,Western Wear,2,2194.15,4388.3,Pending,4388.3
+ORD0122,2026-04-09 13:53:30,Reseller_023,West,Pune,Kids Wear,4,760.58,3042.32,Delivered,3042.32
+ORD0123,2026-04-30 19:32:47,Reseller_018,East,Guwahati,Western Wear,2,3510.5,7021.0,Delivered,7021.0
+ORD0124,2026-04-26 16:17:52,Reseller_009,South,Hyderabad,Home & Kitchen,1,1912.18,1912.18,Delivered,1912.18
+ORD0125,2026-04-22 15:55:09,Reseller_010,South,Chennai,Beauty & Personal Care,4,1392.59,5570.36,Delivered,5570.36
+ORD0126,2026-04-18 12:29:59,Reseller_012,South,Hyderabad,Kids Wear,3,2200.08,6600.24,Delivered,6600.24
+ORD0127,2026-04-08 13:02:20,Reseller_023,West,Pune,Western Wear,4,2938.82,11755.28,Delivered,11755.28
+ORD0128,2026-04-26 20:09:31,Reseller_013,East,Kolkata,Home & Kitchen,1,1019.6,1019.6,Pending,1019.6
+ORD0129,2026-04-28 14:06:33,Reseller_019,West,Mumbai,Kids Wear,4,235.3,941.2,Cancelled,941.2
+ORD0130,2026-04-05 02:30:50,Reseller_005,North,Jaipur,Home & Kitchen,3,2229.8,6689.4,Cancelled,6689.400000000001
+ORD0131,2026-04-28 10:54:43,Reseller_023,West,Pune,Home & Kitchen,5,2466.05,12330.25,Delivered,12330.25
+ORD0132,2026-04-02 19:04:15,Reseller_011,South,Bengaluru,Home & Kitchen,3,5985.33,17955.99,Cancelled,17955.989999999998
+ORD0133,2026-04-04 20:45:55,Reseller_024,West,Ahmedabad,Ethnic Wear,1,2496.55,2496.55,Delivered,2496.55
+ORD0134,2026-04-02 10:50:03,Reseller_023,West,Pune,Kids Wear,3,1024.47,3073.41,Cancelled,3073.41
+ORD0135,2026-04-14 18:43:50,Reseller_014,East,Bhubaneswar,Western Wear,2,1011.94,2023.88,Delivered,2023.88
+ORD0136,2026-04-20 21:15:31,Reseller_003,North,Lucknow,Beauty & Personal Care,5,443.48,2217.4,Cancelled,2217.4
+ORD0137,2026-04-22 00:57:51,Reseller_015,East,Guwahati,Kids Wear,4,2272.78,9091.12,Delivered,9091.12
+ORD0138,2026-04-15 11:37:19,Reseller_022,West,Mumbai,Beauty & Personal Care,4,1756.75,7027.0,Delivered,7027.0
+ORD0139,2026-04-13 15:06:15,Reseller_015,East,Guwahati,Kids Wear,4,1515.42,6061.68,Delivered,6061.68
+ORD0140,2026-04-10 00:53:42,Reseller_019,West,Mumbai,Kids Wear,4,831.3,3325.2,Pending,3325.2
+ORD0141,2026-04-24 15:53:57,Reseller_019,West,Mumbai,Ethnic Wear,3,3990.83,11972.49,Cancelled,11972.49
+ORD0142,2026-04-08 20:12:39,Reseller_008,South,Bengaluru,Beauty & Personal Care,3,1726.63,5179.89,Returned,5179.89
+ORD0143,2026-04-29 20:41:02,Reseller_024,West,Ahmedabad,Western Wear,3,3239.0,9717.0,Delivered,9717.0
+ORD0144,2026-04-05 02:58:18,Reseller_002,North,Jaipur,Beauty & Personal Care,3,1893.95,5681.85,Delivered,5681.85
+ORD0145,2026-04-18 11:33:32,Reseller_006,North,Lucknow,Western Wear,3,3389.7,10169.1,Delivered,10169.099999999999
+ORD0146,2026-04-10 23:55:21,Reseller_009,South,Hyderabad,Home & Kitchen,1,2969.49,2969.49,Pending,2969.49
+ORD0147,2026-04-08 21:46:43,Reseller_003,North,Lucknow,Western Wear,4,3882.17,15528.68,Returned,15528.68
+ORD0148,2026-04-13 00:16:34,Reseller_018,East,Guwahati,Kids Wear,1,1246.01,1246.01,Delivered,1246.01
+ORD0149,2026-04-27 20:23:06,Reseller_022,West,Mumbai,Kids Wear,2,1284.4,2568.8,Delivered,2568.8
+ORD0150,2026-04-20 07:41:04,Reseller_020,West,Pune,Beauty & Personal Care,4,2282.53,9130.12,Delivered,9130.12
+ORD0151,2026-04-02 01:19:31,Reseller_010,South,Chennai,Home & Kitchen,1,853.99,853.99,Delivered,853.99
+ORD0152,2026-04-12 21:47:44,Reseller_018,East,Guwahati,Western Wear,5,1908.86,9544.3,Delivered,9544.3
+ORD0153,2026-04-21 03:53:31,Reseller_024,West,Ahmedabad,Western Wear,5,1869.22,9346.1,Cancelled,9346.1
+ORD0154,2026-04-07 14:28:15,Reseller_009,South,Hyderabad,Ethnic Wear,3,947.1,2841.3,Delivered,2841.3
+ORD0155,2026-04-21 11:03:25,Reseller_022,West,Mumbai,Kids Wear,3,636.56,1909.68,Delivered,1909.6799999999998
+ORD0156,2026-04-07 20:40:38,Reseller_004,North,Delhi,Home & Kitchen,1,588.3,588.3,Delivered,588.3
+ORD0157,2026-04-26 18:13:04,Reseller_011,South,Bengaluru,Western Wear,5,1145.77,5728.85,Pending,5728.85
+ORD0158,2026-04-05 19:00:17,Reseller_007,South,Chennai,Western Wear,2,3955.1,7910.2,Delivered,7910.2
+ORD0159,2026-04-04 21:55:01,Reseller_018,East,Guwahati,Kids Wear,2,234.18,468.36,Returned,468.36
+ORD0160,2026-04-06 08:03:08,Reseller_008,South,Bengaluru,Beauty & Personal Care,4,1362.61,5450.44,Delivered,5450.44
+ORD0161,2026-04-25 11:32:37,Reseller_024,West,Ahmedabad,Ethnic Wear,1,2534.02,2534.02,Delivered,2534.02
+ORD0162,2026-04-26 21:33:19,Reseller_008,South,Bengaluru,Beauty & Personal Care,4,1644.02,6576.08,Delivered,6576.08
+ORD0163,2026-04-28 12:27:43,Reseller_001,North,Delhi,Ethnic Wear,1,2706.21,2706.21,Pending,2706.21
+ORD0164,2026-04-11 19:09:04,Reseller_015,East,Guwahati,Ethnic Wear,2,1737.57,3475.14,Cancelled,3475.14
+ORD0165,2026-04-11 12:38:33,Reseller_021,West,Ahmedabad,Beauty & Personal Care,3,1188.92,3566.76,Delivered,3566.76
+ORD0166,2026-04-23 03:54:41,Reseller_020,West,Pune,Home & Kitchen,5,4408.79,22043.95,Delivered,22043.95
+ORD0167,2026-04-08 13:21:52,Reseller_007,South,Chennai,Home & Kitchen,4,2572.76,10291.04,Delivered,10291.04
+ORD0168,2026-04-11 21:16:23,Reseller_024,West,Ahmedabad,Ethnic Wear,2,3590.69,7181.38,Delivered,7181.38
+ORD0169,2026-04-03 02:27:06,Reseller_016,East,Kolkata,Ethnic Wear,3,4152.96,12458.88,Delivered,12458.880000000001
+ORD0170,2026-04-18 17:21:42,Reseller_018,East,Guwahati,Ethnic Wear,1,2348.64,2348.64,Delivered,2348.64
+ORD0171,2026-04-24 01:18:38,Reseller_022,West,Mumbai,Home & Kitchen,3,2304.38,6913.14,Cancelled,6913.14
+ORD0172,2026-04-22 15:14:54,Reseller_019,West,Mumbai,Beauty & Personal Care,1,940.27,940.27,Delivered,940.27
+ORD0173,2026-04-09 18:14:51,Reseller_018,East,Guwahati,Kids Wear,4,2143.86,8575.44,Delivered,8575.44
+ORD0174,2026-04-18 00:38:59,Reseller_020,West,Pune,Beauty & Personal Care,3,169.49,508.47,Delivered,508.47
+ORD0175,2026-04-12 00:11:55,Reseller_009,South,Hyderabad,Kids Wear,2,1502.54,3005.08,Cancelled,3005.08
+ORD0176,2026-04-21 00:05:47,Reseller_013,East,Kolkata,Ethnic Wear,5,1468.1,7340.5,Delivered,7340.5
+ORD0177,2026-04-12 09:46:20,Reseller_014,East,Bhubaneswar,Home & Kitchen,5,3698.48,18492.4,Delivered,18492.4
+ORD0178,2026-04-20 01:43:05,Reseller_002,North,Jaipur,Western Wear,3,1995.21,5985.63,Delivered,5985.63
+ORD0179,2026-04-14 08:13:48,Reseller_014,East,Bhubaneswar,Home & Kitchen,5,948.76,4743.8,Delivered,4743.8
+ORD0180,2026-04-22 18:31:33,Reseller_014,East,Bhubaneswar,Ethnic Wear,3,704.38,2113.14,Delivered,2113.14
+ORD0181,2026-04-07 09:13:49,Reseller_013,East,Kolkata,Beauty & Personal Care,2,1933.99,3867.98,Delivered,3867.98
+ORD0182,2026-04-16 23:27:11,Reseller_010,South,Chennai,Kids Wear,2,1074.48,2148.96,Delivered,2148.96
+ORD0183,2026-04-27 21:51:22,Reseller_023,West,Pune,Western Wear,1,1829.46,1829.46,Delivered,1829.46
+ORD0184,2026-04-15 02:55:20,Reseller_024,West,Ahmedabad,Ethnic Wear,5,2431.78,12158.9,Delivered,12158.900000000001
+ORD0185,2026-04-13 00:20:10,Reseller_013,East,Kolkata,Home & Kitchen,5,2922.55,14612.75,Delivered,14612.75
+ORD0186,2026-04-28 03:15:27,Reseller_023,West,Pune,Kids Wear,5,1121.03,5605.15,Delivered,5605.15
+ORD0187,2026-04-24 10:14:21,Reseller_003,North,Lucknow,Home & Kitchen,2,735.36,1470.72,Cancelled,1470.72
+ORD0188,2026-04-07 11:22:46,Reseller_021,West,Ahmedabad,Ethnic Wear,2,1563.21,3126.42,Delivered,3126.42
+ORD0189,2026-04-20 04:48:48,Reseller_005,North,Jaipur,Kids Wear,1,607.44,607.44,Delivered,607.44
+ORD0190,2026-04-19 18:28:43,Reseller_021,West,Ahmedabad,Home & Kitchen,5,3965.05,19825.25,Delivered,19825.25
+ORD0191,2026-04-21 10:09:28,Reseller_020,West,Pune,Kids Wear,1,1278.52,1278.52,Cancelled,1278.52
+ORD0192,2026-04-19 01:22:32,Reseller_021,West,Ahmedabad,Kids Wear,1,913.94,913.94,Returned,913.94
+ORD0193,2026-04-27 09:04:41,Reseller_015,East,Guwahati,Ethnic Wear,1,3267.54,3267.54,Delivered,3267.54
+ORD0194,2026-04-18 23:57:02,Reseller_017,East,Bhubaneswar,Home & Kitchen,4,5481.58,21926.32,Delivered,21926.32
+ORD0195,2026-04-16 16:09:03,Reseller_019,West,Mumbai,Western Wear,4,772.61,3090.44,Delivered,3090.44
+ORD0196,2026-04-06 01:15:45,Reseller_011,South,Bengaluru,Ethnic Wear,4,4959.44,19837.76,Delivered,19837.76
+ORD0197,2026-04-12 11:58:18,Reseller_017,East,Bhubaneswar,Beauty & Personal Care,4,1081.05,4324.2,Delivered,4324.2
+ORD0198,2026-04-21 20:21:04,Reseller_011,South,Bengaluru,Beauty & Personal Care,3,326.81,980.43,Delivered,980.4300000000001
+ORD0199,2026-04-24 21:58:38,Reseller_022,West,Mumbai,Home & Kitchen,2,2200.16,4400.32,Delivered,4400.32
+ORD0200,2026-04-10 20:44:42,Reseller_019,West,Mumbai,Western Wear,4,864.23,3456.92,Cancelled,3456.92
+ORD0201,2026-04-13 20:50:21,Reseller_023,West,Pune,Ethnic Wear,2,3515.52,7031.04,Delivered,7031.04
+ORD0202,2026-04-22 13:32:23,Reseller_024,West,Ahmedabad,Beauty & Personal Care,1,970.23,970.23,Delivered,970.23
+ORD0203,2026-04-25 15:12:14,Reseller_006,North,Lucknow,Western Wear,2,957.8,1915.6,Delivered,1915.6
+ORD0204,2026-04-18 23:56:33,Reseller_010,South,Chennai,Ethnic Wear,1,3478.68,3478.68,Delivered,3478.68
+ORD0205,2026-04-05 05:11:53,Reseller_020,West,Pune,Western Wear,5,3312.56,16562.8,Delivered,16562.8
+ORD0206,2026-04-12 21:46:15,Reseller_006,North,Lucknow,Home & Kitchen,4,3780.39,15121.56,Delivered,15121.56
+ORD0207,2026-04-08 09:51:50,Reseller_024,West,Ahmedabad,Home & Kitchen,4,5452.65,21810.6,Delivered,21810.6
+ORD0208,2026-04-19 14:29:49,Reseller_007,South,Chennai,Kids Wear,3,1989.69,5969.07,Delivered,5969.07
+ORD0209,2026-04-06 06:51:38,Reseller_017,East,Bhubaneswar,Beauty & Personal Care,2,2195.2,4390.4,Delivered,4390.4
+ORD0210,2026-04-18 03:45:54,Reseller_002,North,Jaipur,Home & Kitchen,5,5151.65,25758.25,Cancelled,25758.25
+ORD0211,2026-04-09 14:57:32,Reseller_010,South,Chennai,Ethnic Wear,2,4239.71,8479.42,Returned,8479.42
+ORD0212,2026-04-29 11:59:01,Reseller_003,North,Lucknow,Western Wear,4,591.72,2366.88,Returned,2366.88
+ORD0213,2026-04-03 11:14:01,Reseller_017,East,Bhubaneswar,Kids Wear,3,2340.9,7022.7,Delivered,7022.700000000001
+ORD0214,2026-04-05 01:18:58,Reseller_023,West,Pune,Kids Wear,4,1800.97,7203.88,Returned,7203.88
+ORD0215,2026-04-01 02:01:16,Reseller_005,North,Jaipur,Home & Kitchen,2,5059.29,10118.58,Delivered,10118.58
+ORD0216,2026-04-04 09:15:19,Reseller_018,East,Guwahati,Beauty & Personal Care,1,214.6,214.6,Delivered,214.6
+ORD0217,2026-04-04 15:38:34,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,1,1616.69,1616.69,Delivered,1616.69
+ORD0218,2026-04-10 13:00:39,Reseller_019,West,Mumbai,Western Wear,3,1266.03,3798.09,Returned,3798.09
+ORD0219,2026-04-03 16:23:04,Reseller_014,East,Bhubaneswar,Western Wear,5,2358.7,11793.5,Delivered,11793.5
+ORD0220,2026-04-28 15:02:40,Reseller_017,East,Bhubaneswar,Beauty & Personal Care,4,2454.49,9817.96,Delivered,9817.96
+ORD0221,2026-04-03 11:15:46,Reseller_009,South,Hyderabad,Ethnic Wear,1,3971.76,3971.76,Delivered,3971.76
+ORD0222,2026-04-12 17:21:52,Reseller_024,West,Ahmedabad,Kids Wear,2,2109.88,4219.76,Delivered,4219.76
+ORD0223,2026-04-16 20:11:51,Reseller_022,West,Mumbai,Home & Kitchen,2,659.67,1319.34,Pending,1319.34
+ORD0224,2026-04-02 06:56:02,Reseller_015,East,Guwahati,Ethnic Wear,3,4700.17,14100.51,Delivered,14100.51
+ORD0225,2026-04-18 15:16:02,Reseller_017,East,Bhubaneswar,Home & Kitchen,2,1930.83,3861.66,Pending,3861.66
+ORD0226,2026-04-26 11:27:56,Reseller_002,North,Jaipur,Kids Wear,4,1909.61,7638.44,Delivered,7638.44
+ORD0227,2026-04-16 22:31:23,Reseller_013,East,Kolkata,Kids Wear,5,813.46,4067.3,Pending,4067.3
+ORD0228,2026-04-20 05:34:18,Reseller_003,North,Lucknow,Home & Kitchen,3,884.81,2654.43,Delivered,2654.43
+ORD0229,2026-04-20 22:27:10,Reseller_011,South,Bengaluru,Kids Wear,4,1008.56,4034.24,Delivered,4034.24
+ORD0230,2026-04-14 08:40:50,Reseller_002,North,Jaipur,Kids Wear,1,372.59,372.59,Delivered,372.59
+ORD0231,2026-04-26 23:43:10,Reseller_021,West,Ahmedabad,Home & Kitchen,1,1113.84,1113.84,Delivered,1113.84
+ORD0232,2026-04-03 07:49:41,Reseller_020,West,Pune,Home & Kitchen,3,2364.26,7092.78,Delivered,7092.780000000001
+ORD0233,2026-04-22 14:23:23,Reseller_019,West,Mumbai,Ethnic Wear,4,3933.88,15735.52,Delivered,15735.52
+ORD0234,2026-04-13 10:41:17,Reseller_019,West,Mumbai,Western Wear,2,3857.87,7715.74,Delivered,7715.74
+ORD0235,2026-04-13 17:07:16,Reseller_001,North,Delhi,Western Wear,3,2934.54,8803.62,Delivered,8803.619999999999
+ORD0236,2026-04-30 15:12:07,Reseller_007,South,Chennai,Beauty & Personal Care,2,2146.78,4293.56,Delivered,4293.56
+ORD0237,2026-04-15 02:51:43,Reseller_015,East,Guwahati,Western Wear,3,2804.22,8412.66,Cancelled,8412.66
+ORD0238,2026-04-10 09:54:10,Reseller_023,West,Pune,Ethnic Wear,2,4071.63,8143.26,Delivered,8143.26
+ORD0239,2026-04-07 04:15:50,Reseller_017,East,Bhubaneswar,Western Wear,4,494.62,1978.48,Delivered,1978.48
+ORD0240,2026-04-26 17:08:39,Reseller_018,East,Guwahati,Beauty & Personal Care,1,257.8,257.8,Delivered,257.8
+ORD0241,2026-04-25 13:52:36,Reseller_013,East,Kolkata,Home & Kitchen,1,1014.36,1014.36,Delivered,1014.36
+ORD0242,2026-04-22 16:22:08,Reseller_011,South,Bengaluru,Ethnic Wear,5,3379.07,16895.35,Delivered,16895.350000000002
+ORD0243,2026-04-30 01:53:07,Reseller_006,North,Lucknow,Western Wear,5,950.86,4754.3,Delivered,4754.3
+ORD0244,2026-04-23 07:22:33,Reseller_006,North,Lucknow,Western Wear,3,3445.36,10336.08,Delivered,10336.08
+ORD0245,2026-04-18 08:08:40,Reseller_009,South,Hyderabad,Western Wear,3,2611.94,7835.82,Delivered,7835.82
+ORD0246,2026-04-19 18:09:10,Reseller_003,North,Lucknow,Beauty & Personal Care,5,1829.52,9147.6,Delivered,9147.6
+ORD0247,2026-04-19 01:52:55,Reseller_020,West,Pune,Kids Wear,1,386.81,386.81,Returned,386.81
+ORD0248,2026-04-07 18:26:39,Reseller_021,West,Ahmedabad,Beauty & Personal Care,1,1295.29,1295.29,Delivered,1295.29
+ORD0249,2026-04-10 15:15:51,Reseller_021,West,Ahmedabad,Beauty & Personal Care,4,813.84,3255.36,Delivered,3255.36
+ORD0250,2026-04-14 15:29:13,Reseller_003,North,Lucknow,Ethnic Wear,3,3229.97,9689.91,Delivered,9689.91
+ORD0251,2026-04-28 11:25:08,Reseller_011,South,Bengaluru,Kids Wear,3,1384.45,4153.35,Returned,4153.35
+ORD0252,2026-04-04 08:28:15,Reseller_004,North,Delhi,Kids Wear,2,422.67,845.34,Delivered,845.34
+ORD0253,2026-04-14 07:55:57,Reseller_010,South,Chennai,Home & Kitchen,2,4936.82,9873.64,Cancelled,9873.64
+ORD0254,2026-04-06 15:32:29,Reseller_019,West,Mumbai,Kids Wear,4,2221.87,8887.48,Delivered,8887.48
+ORD0255,2026-04-13 16:29:15,Reseller_016,East,Kolkata,Ethnic Wear,2,3125.05,6250.1,Delivered,6250.1
+ORD0256,2026-04-20 20:43:30,Reseller_002,North,Jaipur,Ethnic Wear,3,2915.11,8745.33,Delivered,8745.33
+ORD0257,2026-04-09 23:23:48,Reseller_004,North,Delhi,Home & Kitchen,4,2385.84,9543.36,Delivered,9543.36
+ORD0258,2026-04-07 11:35:18,Reseller_013,East,Kolkata,Ethnic Wear,1,2238.57,2238.57,Delivered,2238.57
+ORD0259,2026-04-20 21:39:07,Reseller_015,East,Guwahati,Beauty & Personal Care,2,2440.2,4880.4,Delivered,4880.4
+ORD0260,2026-04-11 17:23:48,Reseller_013,East,Kolkata,Kids Wear,2,657.83,1315.66,Returned,1315.66
+ORD0261,2026-04-02 01:08:45,Reseller_017,East,Bhubaneswar,Home & Kitchen,3,4882.61,14647.83,Delivered,14647.829999999998
+ORD0262,2026-04-29 16:08:20,Reseller_017,East,Bhubaneswar,Home & Kitchen,5,2115.62,10578.1,Delivered,10578.099999999999
+ORD0263,2026-04-10 18:21:32,Reseller_013,East,Kolkata,Beauty & Personal Care,5,1377.62,6888.1,Returned,6888.099999999999
+ORD0264,2026-04-27 00:23:21,Reseller_023,West,Pune,Beauty & Personal Care,1,2451.76,2451.76,Delivered,2451.76
+ORD0265,2026-04-24 22:40:01,Reseller_019,West,Mumbai,Kids Wear,5,1291.56,6457.8,Returned,6457.799999999999
+ORD0266,2026-04-24 01:37:30,Reseller_021,West,Ahmedabad,Beauty & Personal Care,2,1358.16,2716.32,Delivered,2716.32
+ORD0267,2026-04-13 04:52:43,Reseller_024,West,Ahmedabad,Beauty & Personal Care,2,175.77,351.54,Returned,351.54
+ORD0268,2026-04-15 10:26:09,Reseller_023,West,Pune,Ethnic Wear,4,3607.25,14429.0,Delivered,14429.0
+ORD0269,2026-04-30 15:55:54,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,1,1793.86,1793.86,Returned,1793.86
+ORD0270,2026-04-22 15:33:24,Reseller_017,East,Bhubaneswar,Western Wear,3,3844.07,11532.21,Delivered,11532.210000000001
+ORD0271,2026-04-12 21:49:55,Reseller_015,East,Guwahati,Beauty & Personal Care,3,1564.18,4692.54,Delivered,4692.54
+ORD0272,2026-04-10 07:19:49,Reseller_007,South,Chennai,Western Wear,3,2937.64,8812.92,Delivered,8812.92
+ORD0273,2026-04-12 17:59:59,Reseller_023,West,Pune,Home & Kitchen,3,1940.4,5821.2,Delivered,5821.200000000001
+ORD0274,2026-04-13 11:49:51,Reseller_019,West,Mumbai,Beauty & Personal Care,2,797.09,1594.18,Delivered,1594.18
+ORD0275,2026-04-15 20:16:47,Reseller_010,South,Chennai,Ethnic Wear,4,1462.94,5851.76,Delivered,5851.76
+ORD0276,2026-04-23 08:08:06,Reseller_018,East,Guwahati,Kids Wear,5,1904.05,9520.25,Cancelled,9520.25
+ORD0277,2026-04-29 16:14:40,Reseller_008,South,Bengaluru,Western Wear,2,588.97,1177.94,Delivered,1177.94
+ORD0278,2026-04-04 21:49:08,Reseller_014,East,Bhubaneswar,Kids Wear,1,2418.39,2418.39,Returned,2418.39
+ORD0279,2026-04-29 15:30:41,Reseller_006,North,Lucknow,Home & Kitchen,2,4608.69,9217.38,Delivered,9217.38
+ORD0280,2026-04-02 02:41:36,Reseller_010,South,Chennai,Kids Wear,2,1430.85,2861.7,Delivered,2861.7
+ORD0281,2026-04-06 13:56:53,Reseller_024,West,Ahmedabad,Ethnic Wear,2,4702.65,9405.3,Cancelled,9405.3
+ORD0282,2026-04-06 23:55:59,Reseller_002,North,Jaipur,Home & Kitchen,3,5297.44,15892.32,Returned,15892.32
+ORD0283,2026-04-04 10:18:29,Reseller_001,North,Delhi,Kids Wear,5,1405.93,7029.65,Delivered,7029.650000000001
+ORD0284,2026-04-07 03:21:10,Reseller_005,North,Jaipur,Beauty & Personal Care,4,1655.88,6623.52,Delivered,6623.52
+ORD0285,2026-04-11 09:36:43,Reseller_023,West,Pune,Western Wear,2,1031.78,2063.56,Delivered,2063.56
+ORD0286,2026-04-17 10:05:25,Reseller_021,West,Ahmedabad,Home & Kitchen,1,1353.25,1353.25,Returned,1353.25
+ORD0287,2026-04-08 00:16:24,Reseller_005,North,Jaipur,Home & Kitchen,2,2846.39,5692.78,Delivered,5692.78
+ORD0288,2026-04-24 18:00:16,Reseller_009,South,Hyderabad,Kids Wear,3,1793.37,5380.11,Delivered,5380.11
+ORD0289,2026-04-06 12:43:32,Reseller_002,North,Jaipur,Ethnic Wear,3,3606.31,10818.93,Delivered,10818.93
+ORD0290,2026-04-08 07:08:30,Reseller_021,West,Ahmedabad,Kids Wear,2,1246.45,2492.9,Delivered,2492.9
+ORD0291,2026-04-18 15:48:34,Reseller_020,West,Pune,Kids Wear,2,1952.28,3904.56,Delivered,3904.56
+ORD0292,2026-04-03 16:28:33,Reseller_022,West,Mumbai,Beauty & Personal Care,3,287.45,862.35,Cancelled,862.3499999999999
+ORD0293,2026-04-18 16:12:36,Reseller_019,West,Mumbai,Ethnic Wear,5,1174.34,5871.7,Delivered,5871.7
+ORD0294,2026-04-22 06:45:37,Reseller_011,South,Bengaluru,Beauty & Personal Care,4,318.26,1273.04,Delivered,1273.04
+ORD0295,2026-04-15 04:32:26,Reseller_017,East,Bhubaneswar,Home & Kitchen,4,3514.29,14057.16,Returned,14057.16
+ORD0296,2026-04-10 23:01:25,Reseller_018,East,Guwahati,Home & Kitchen,3,4953.78,14861.34,Delivered,14861.34
+ORD0297,2026-04-02 13:22:44,Reseller_024,West,Ahmedabad,Western Wear,1,2348.19,2348.19,Delivered,2348.19
+ORD0298,2026-04-16 01:18:26,Reseller_002,North,Jaipur,Ethnic Wear,2,3960.37,7920.74,Pending,7920.74
+ORD0299,2026-04-29 12:28:55,Reseller_021,West,Ahmedabad,Home & Kitchen,4,2441.18,9764.72,Delivered,9764.72
+ORD0300,2026-04-28 11:07:11,Reseller_022,West,Mumbai,Beauty & Personal Care,5,1043.34,5216.7,Delivered,5216.7
+ORD0301,2026-05-25 00:19:29,Reseller_005,North,Jaipur,Western Wear,5,1926.86,9634.3,Returned,9634.3
+ORD0302,2026-05-12 04:17:12,Reseller_013,East,Kolkata,Western Wear,1,515.98,515.98,Delivered,515.98
+ORD0303,2026-05-30 00:15:13,Reseller_022,West,Mumbai,Home & Kitchen,1,875.11,875.11,Delivered,875.11
+ORD0304,2026-05-23 01:15:47,Reseller_002,North,Jaipur,Home & Kitchen,1,2592.91,2592.91,Delivered,2592.91
+ORD0305,2026-05-28 01:08:32,Reseller_008,South,Bengaluru,Beauty & Personal Care,3,661.99,1985.97,Delivered,1985.97
+ORD0306,2026-05-20 21:52:20,Reseller_024,West,Ahmedabad,Beauty & Personal Care,2,824.23,1648.46,Delivered,1648.46
+ORD0307,2026-05-10 08:03:35,Reseller_005,North,Jaipur,Beauty & Personal Care,5,2211.31,11056.55,Delivered,11056.55
+ORD0308,2026-05-02 11:41:42,Reseller_006,North,Lucknow,Home & Kitchen,4,4779.09,19116.36,Delivered,19116.36
+ORD0309,2026-05-10 12:11:48,Reseller_011,South,Bengaluru,Home & Kitchen,5,2999.06,14995.3,Delivered,14995.3
+ORD0310,2026-05-05 14:58:03,Reseller_008,South,Bengaluru,Kids Wear,5,1149.16,5745.8,Cancelled,5745.8
+ORD0311,2026-05-13 07:16:13,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,3,1652.09,4956.27,Delivered,4956.2699999999995
+ORD0312,2026-05-24 06:03:17,Reseller_015,East,Guwahati,Kids Wear,4,1749.45,6997.8,Delivered,6997.8
+ORD0313,2026-05-07 18:46:42,Reseller_020,West,Pune,Ethnic Wear,5,1476.57,7382.85,Cancelled,7382.849999999999
+ORD0314,2026-05-30 00:13:59,Reseller_007,South,Chennai,Kids Wear,2,2412.78,4825.56,Delivered,4825.56
+ORD0315,2026-05-23 19:45:13,Reseller_004,North,Delhi,Home & Kitchen,4,5516.22,22064.88,Cancelled,22064.88
+ORD0316,2026-05-13 14:34:41,Reseller_018,East,Guwahati,Kids Wear,3,909.37,2728.11,Returned,2728.11
+ORD0317,2026-05-15 03:51:46,Reseller_012,South,Hyderabad,Beauty & Personal Care,4,1927.91,7711.64,Cancelled,7711.64
+ORD0318,2026-05-14 01:36:55,Reseller_011,South,Bengaluru,Western Wear,2,3068.51,6137.02,Delivered,6137.02
+ORD0319,2026-05-19 18:46:26,Reseller_001,North,Delhi,Kids Wear,3,550.55,1651.65,Delivered,1651.6499999999999
+ORD0320,2026-05-27 07:31:35,Reseller_011,South,Bengaluru,Western Wear,3,1326.38,3979.14,Delivered,3979.1400000000003
+ORD0321,2026-05-24 11:10:08,Reseller_016,East,Kolkata,Home & Kitchen,5,3083.4,15417.0,Delivered,15417.0
+ORD0322,2026-05-27 02:52:42,Reseller_018,East,Guwahati,Ethnic Wear,1,3939.52,3939.52,Delivered,3939.52
+ORD0323,2026-05-08 02:45:09,Reseller_014,East,Bhubaneswar,Western Wear,1,1187.39,1187.39,Returned,1187.39
+ORD0324,2026-05-21 21:59:39,Reseller_015,East,Guwahati,Kids Wear,4,1716.35,6865.4,Delivered,6865.4
+ORD0325,2026-05-14 00:01:33,Reseller_001,North,Delhi,Ethnic Wear,3,2910.82,8732.46,Delivered,8732.460000000001
+ORD0326,2026-05-23 21:27:51,Reseller_010,South,Chennai,Ethnic Wear,2,981.57,1963.14,Delivered,1963.14
+ORD0327,2026-05-07 19:33:16,Reseller_004,North,Delhi,Beauty & Personal Care,3,741.58,2224.74,Delivered,2224.7400000000002
+ORD0328,2026-05-13 14:36:15,Reseller_013,East,Kolkata,Ethnic Wear,2,1849.89,3699.78,Delivered,3699.78
+ORD0329,2026-05-13 12:35:30,Reseller_003,North,Lucknow,Ethnic Wear,1,3365.37,3365.37,Delivered,3365.37
+ORD0330,2026-05-28 13:41:50,Reseller_023,West,Pune,Western Wear,3,2437.08,7311.24,Delivered,7311.24
+ORD0331,2026-05-08 06:57:55,Reseller_004,North,Delhi,Beauty & Personal Care,5,1241.2,6206.0,Cancelled,6206.0
+ORD0332,2026-05-09 17:36:42,Reseller_002,North,Jaipur,Ethnic Wear,1,1307.1,1307.1,Delivered,1307.1
+ORD0333,2026-05-19 04:48:52,Reseller_011,South,Bengaluru,Ethnic Wear,4,4679.94,18719.76,Pending,18719.76
+ORD0334,2026-05-19 12:43:57,Reseller_010,South,Chennai,Western Wear,5,1594.23,7971.15,Delivered,7971.15
+ORD0335,2026-05-23 23:05:32,Reseller_024,West,Ahmedabad,Western Wear,3,593.31,1779.93,Returned,1779.9299999999998
+ORD0336,2026-05-11 19:49:39,Reseller_014,East,Bhubaneswar,Western Wear,5,1828.13,9140.65,Returned,9140.650000000001
+ORD0337,2026-05-26 14:31:14,Reseller_011,South,Bengaluru,Ethnic Wear,3,2988.67,8966.01,Delivered,8966.01
+ORD0338,2026-05-19 21:24:05,Reseller_013,East,Kolkata,Home & Kitchen,5,1983.66,9918.3,Delivered,9918.300000000001
+ORD0339,2026-05-05 12:45:50,Reseller_008,South,Bengaluru,Ethnic Wear,2,3828.45,7656.9,Delivered,7656.9
+ORD0340,2026-05-01 09:28:23,Reseller_011,South,Bengaluru,Kids Wear,3,435.13,1305.39,Delivered,1305.3899999999999
+ORD0341,2026-05-18 17:32:26,Reseller_003,North,Lucknow,Western Wear,1,494.54,494.54,Delivered,494.54
+ORD0342,2026-05-20 10:55:24,Reseller_012,South,Hyderabad,Beauty & Personal Care,1,800.43,800.43,Delivered,800.43
+ORD0343,2026-05-18 07:36:33,Reseller_013,East,Kolkata,Ethnic Wear,2,3583.92,7167.84,Returned,7167.84
+ORD0344,2026-05-09 15:09:04,Reseller_006,North,Lucknow,Western Wear,2,1964.83,3929.66,Delivered,3929.66
+ORD0345,2026-05-03 11:16:15,Reseller_014,East,Bhubaneswar,Kids Wear,4,1565.75,6263.0,Delivered,6263.0
+ORD0346,2026-05-10 00:25:21,Reseller_007,South,Chennai,Home & Kitchen,5,2465.37,12326.85,Delivered,12326.849999999999
+ORD0347,2026-05-27 20:38:08,Reseller_011,South,Bengaluru,Home & Kitchen,3,2127.79,6383.37,Delivered,6383.37
+ORD0348,2026-05-06 12:20:18,Reseller_023,West,Pune,Western Wear,4,3883.95,15535.8,Delivered,15535.8
+ORD0349,2026-05-27 12:23:07,Reseller_008,South,Bengaluru,Kids Wear,5,659.54,3297.7,Delivered,3297.7
+ORD0350,2026-05-18 00:46:29,Reseller_018,East,Guwahati,Western Wear,2,1978.44,3956.88,Delivered,3956.88
+ORD0351,2026-05-26 13:43:31,Reseller_010,South,Chennai,Ethnic Wear,2,3350.01,6700.02,Returned,6700.02
+ORD0352,2026-05-23 13:50:24,Reseller_008,South,Bengaluru,Kids Wear,1,1232.85,1232.85,Delivered,1232.85
+ORD0353,2026-05-18 16:59:58,Reseller_020,West,Pune,Home & Kitchen,4,3398.78,13595.12,Delivered,13595.12
+ORD0354,2026-05-30 02:06:49,Reseller_012,South,Hyderabad,Beauty & Personal Care,2,1678.24,3356.48,Delivered,3356.48
+ORD0355,2026-05-02 18:41:43,Reseller_012,South,Hyderabad,Western Wear,4,3880.52,15522.08,Delivered,15522.08
+ORD0356,2026-05-04 08:14:32,Reseller_011,South,Bengaluru,Home & Kitchen,5,3480.56,17402.8,Delivered,17402.8
+ORD0357,2026-05-12 12:29:49,Reseller_023,West,Pune,Beauty & Personal Care,5,1757.05,8785.25,Delivered,8785.25
+ORD0358,2026-05-16 03:18:26,Reseller_005,North,Jaipur,Kids Wear,1,466.96,466.96,Pending,466.96
+ORD0359,2026-05-11 14:50:13,Reseller_024,West,Ahmedabad,Western Wear,5,2138.53,10692.65,Delivered,10692.650000000001
+ORD0360,2026-05-23 14:20:04,Reseller_016,East,Kolkata,Ethnic Wear,3,701.07,2103.21,Delivered,2103.21
+ORD0361,2026-05-11 20:06:43,Reseller_023,West,Pune,Ethnic Wear,2,4684.65,9369.3,Delivered,9369.3
+ORD0362,2026-05-18 05:21:35,Reseller_024,West,Ahmedabad,Western Wear,4,3850.47,15401.88,Delivered,15401.88
+ORD0363,2026-05-06 20:42:27,Reseller_008,South,Bengaluru,Home & Kitchen,4,466.4,1865.6,Delivered,1865.6
+ORD0364,2026-05-14 12:00:45,Reseller_020,West,Pune,Western Wear,2,1140.82,2281.64,Delivered,2281.64
+ORD0365,2026-05-26 17:11:23,Reseller_023,West,Pune,Ethnic Wear,3,1386.83,4160.49,Delivered,4160.49
+ORD0366,2026-05-16 16:40:20,Reseller_004,North,Delhi,Kids Wear,5,1093.87,5469.35,Delivered,5469.349999999999
+ORD0367,2026-05-12 14:39:11,Reseller_013,East,Kolkata,Beauty & Personal Care,3,2304.84,6914.52,Delivered,6914.52
+ORD0368,2026-05-11 03:15:19,Reseller_019,West,Mumbai,Ethnic Wear,1,1323.7,1323.7,Delivered,1323.7
+ORD0369,2026-05-14 19:08:36,Reseller_023,West,Pune,Western Wear,4,1922.94,7691.76,Delivered,7691.76
+ORD0370,2026-05-21 05:35:10,Reseller_016,East,Kolkata,Beauty & Personal Care,4,793.2,3172.8,Delivered,3172.8
+ORD0371,2026-05-20 01:55:22,Reseller_006,North,Lucknow,Kids Wear,1,1314.6,1314.6,Returned,1314.6
+ORD0372,2026-05-17 20:31:26,Reseller_007,South,Chennai,Home & Kitchen,4,2669.09,10676.36,Pending,10676.36
+ORD0373,2026-05-19 00:50:48,Reseller_015,East,Guwahati,Home & Kitchen,2,1964.91,3929.82,Delivered,3929.82
+ORD0374,2026-05-06 14:36:47,Reseller_009,South,Hyderabad,Western Wear,4,2379.01,9516.04,Delivered,9516.04
+ORD0375,2026-05-25 17:52:23,Reseller_004,North,Delhi,Beauty & Personal Care,5,2074.27,10371.35,Delivered,10371.35
+ORD0376,2026-05-14 03:47:53,Reseller_002,North,Jaipur,Home & Kitchen,2,1996.94,3993.88,Delivered,3993.88
+ORD0377,2026-05-28 02:28:55,Reseller_002,North,Jaipur,Home & Kitchen,1,4721.1,4721.1,Delivered,4721.1
+ORD0378,2026-05-19 22:22:55,Reseller_008,South,Bengaluru,Western Wear,5,2677.97,13389.85,Returned,13389.849999999999
+ORD0379,2026-05-07 06:51:03,Reseller_006,North,Lucknow,Beauty & Personal Care,5,941.96,4709.8,Delivered,4709.8
+ORD0380,2026-05-11 22:18:18,Reseller_009,South,Hyderabad,Beauty & Personal Care,5,741.62,3708.1,Delivered,3708.1
+ORD0381,2026-05-25 13:58:03,Reseller_017,East,Bhubaneswar,Ethnic Wear,3,4401.71,13205.13,Delivered,13205.130000000001
+ORD0382,2026-05-23 10:53:15,Reseller_005,North,Jaipur,Western Wear,4,2162.05,8648.2,Delivered,8648.2
+ORD0383,2026-05-13 14:04:40,Reseller_019,West,Mumbai,Kids Wear,1,1126.56,1126.56,Delivered,1126.56
+ORD0384,2026-05-29 11:29:31,Reseller_024,West,Ahmedabad,Kids Wear,3,1538.5,4615.5,Delivered,4615.5
+ORD0385,2026-05-15 20:42:44,Reseller_024,West,Ahmedabad,Ethnic Wear,3,4325.48,12976.44,Returned,12976.439999999999
+ORD0386,2026-05-14 06:31:17,Reseller_018,East,Guwahati,Home & Kitchen,3,5021.56,15064.68,Delivered,15064.68
+ORD0387,2026-05-19 15:50:21,Reseller_011,South,Bengaluru,Beauty & Personal Care,1,210.26,210.26,Delivered,210.26
+ORD0388,2026-05-30 05:28:29,Reseller_021,West,Ahmedabad,Home & Kitchen,1,5953.48,5953.48,Delivered,5953.48
+ORD0389,2026-05-30 04:56:41,Reseller_014,East,Bhubaneswar,Western Wear,3,972.32,2916.96,Pending,2916.96
+ORD0390,2026-05-09 02:23:42,Reseller_009,South,Hyderabad,Ethnic Wear,2,733.04,1466.08,Delivered,1466.08
+ORD0391,2026-05-25 07:27:41,Reseller_021,West,Ahmedabad,Kids Wear,1,1818.51,1818.51,Returned,1818.51
+ORD0392,2026-05-05 18:14:33,Reseller_001,North,Delhi,Western Wear,4,433.43,1733.72,Delivered,1733.72
+ORD0393,2026-05-28 13:44:08,Reseller_023,West,Pune,Kids Wear,4,362.91,1451.64,Returned,1451.64
+ORD0394,2026-05-04 03:20:23,Reseller_013,East,Kolkata,Ethnic Wear,3,1117.08,3351.24,Returned,3351.24
+ORD0395,2026-05-19 00:39:41,Reseller_005,North,Jaipur,Western Wear,2,1984.36,3968.72,Delivered,3968.72
+ORD0396,2026-05-05 13:39:43,Reseller_024,West,Ahmedabad,Western Wear,4,3495.87,13983.48,Delivered,13983.48
+ORD0397,2026-05-04 18:46:24,Reseller_003,North,Lucknow,Ethnic Wear,3,4834.62,14503.86,Delivered,14503.86
+ORD0398,2026-05-21 02:15:35,Reseller_011,South,Bengaluru,Western Wear,5,2560.03,12800.15,Delivered,12800.150000000001
+ORD0399,2026-05-23 00:54:54,Reseller_020,West,Pune,Kids Wear,3,672.53,2017.59,Returned,2017.59
+ORD0400,2026-05-13 09:41:03,Reseller_020,West,Pune,Beauty & Personal Care,2,1287.73,2575.46,Delivered,2575.46
+ORD0401,2026-05-20 02:33:56,Reseller_004,North,Delhi,Western Wear,1,3952.78,3952.78,Delivered,3952.78
+ORD0402,2026-05-27 18:26:23,Reseller_011,South,Bengaluru,Western Wear,5,2858.59,14292.95,Delivered,14292.95
+ORD0403,2026-05-03 00:16:13,Reseller_016,East,Kolkata,Ethnic Wear,1,4651.61,4651.61,Delivered,4651.61
+ORD0404,2026-05-23 16:49:26,Reseller_013,East,Kolkata,Beauty & Personal Care,4,1784.35,7137.4,Delivered,7137.4
+ORD0405,2026-05-05 08:05:19,Reseller_003,North,Lucknow,Beauty & Personal Care,1,1327.13,1327.13,Delivered,1327.13
+ORD0406,2026-05-13 18:40:48,Reseller_007,South,Chennai,Western Wear,1,1516.61,1516.61,Delivered,1516.61
+ORD0407,2026-05-03 13:07:29,Reseller_014,East,Bhubaneswar,Western Wear,5,2591.8,12959.0,Delivered,12959.0
+ORD0408,2026-05-23 04:44:00,Reseller_010,South,Chennai,Western Wear,2,2187.09,4374.18,Delivered,4374.18
+ORD0409,2026-05-27 23:16:10,Reseller_012,South,Hyderabad,Beauty & Personal Care,3,404.63,1213.89,Delivered,1213.8899999999999
+ORD0410,2026-05-01 10:51:27,Reseller_009,South,Hyderabad,Ethnic Wear,3,2857.34,8572.02,Returned,8572.02
+ORD0411,2026-05-16 14:32:23,Reseller_009,South,Hyderabad,Beauty & Personal Care,1,1299.06,1299.06,Delivered,1299.06
+ORD0412,2026-05-09 03:57:36,Reseller_019,West,Mumbai,Western Wear,1,1222.26,1222.26,Delivered,1222.26
+ORD0413,2026-05-28 00:15:02,Reseller_017,East,Bhubaneswar,Ethnic Wear,4,2137.89,8551.56,Delivered,8551.56
+ORD0414,2026-05-28 01:35:51,Reseller_005,North,Jaipur,Western Wear,4,1208.26,4833.04,Cancelled,4833.04
+ORD0415,2026-05-11 08:52:04,Reseller_008,South,Bengaluru,Home & Kitchen,5,2425.01,12125.05,Cancelled,12125.050000000001
+ORD0416,2026-05-26 16:02:25,Reseller_017,East,Bhubaneswar,Ethnic Wear,1,4446.46,4446.46,Delivered,4446.46
+ORD0417,2026-05-18 14:00:23,Reseller_010,South,Chennai,Kids Wear,2,870.67,1741.34,Delivered,1741.34
+ORD0418,2026-05-12 18:31:49,Reseller_010,South,Chennai,Beauty & Personal Care,2,1857.91,3715.82,Delivered,3715.82
+ORD0419,2026-05-30 13:01:14,Reseller_018,East,Guwahati,Western Wear,5,1647.13,8235.65,Delivered,8235.650000000001
+ORD0420,2026-05-01 21:24:54,Reseller_023,West,Pune,Ethnic Wear,3,967.77,2903.31,Pending,2903.31
+ORD0421,2026-05-31 01:09:45,Reseller_017,East,Bhubaneswar,Western Wear,3,734.9,2204.7,Delivered,2204.7
+ORD0422,2026-05-29 11:29:47,Reseller_008,South,Bengaluru,Beauty & Personal Care,1,1493.85,1493.85,Delivered,1493.85
+ORD0423,2026-05-13 02:37:36,Reseller_017,East,Bhubaneswar,Western Wear,1,1965.94,1965.94,Delivered,1965.94
+ORD0424,2026-05-28 10:59:51,Reseller_005,North,Jaipur,Western Wear,4,2922.61,11690.44,Delivered,11690.44
+ORD0425,2026-05-09 07:04:12,Reseller_024,West,Ahmedabad,Kids Wear,2,1993.86,3987.72,Delivered,3987.72
+ORD0426,2026-05-06 14:29:20,Reseller_019,West,Mumbai,Ethnic Wear,4,1043.32,4173.28,Delivered,4173.28
+ORD0427,2026-05-15 08:54:07,Reseller_012,South,Hyderabad,Western Wear,1,967.42,967.42,Delivered,967.42
+ORD0428,2026-05-23 19:02:13,Reseller_022,West,Mumbai,Kids Wear,3,541.14,1623.42,Returned,1623.42
+ORD0429,2026-05-13 16:03:43,Reseller_023,West,Pune,Western Wear,3,1336.6,4009.8,Pending,4009.7999999999997
+ORD0430,2026-05-28 14:35:47,Reseller_006,North,Lucknow,Ethnic Wear,5,1624.34,8121.7,Pending,8121.7
+ORD0431,2026-05-05 03:00:03,Reseller_015,East,Guwahati,Ethnic Wear,2,1088.22,2176.44,Returned,2176.44
+ORD0432,2026-05-31 20:05:37,Reseller_013,East,Kolkata,Kids Wear,5,795.29,3976.45,Delivered,3976.45
+ORD0433,2026-05-07 20:28:51,Reseller_003,North,Lucknow,Ethnic Wear,2,913.9,1827.8,Pending,1827.8
+ORD0434,2026-05-15 01:10:59,Reseller_011,South,Bengaluru,Ethnic Wear,5,2449.2,12246.0,Delivered,12246.0
+ORD0435,2026-05-13 21:27:11,Reseller_024,West,Ahmedabad,Home & Kitchen,3,1523.88,4571.64,Delivered,4571.64
+ORD0436,2026-05-29 04:02:39,Reseller_006,North,Lucknow,Kids Wear,5,1619.05,8095.25,Delivered,8095.25
+ORD0437,2026-05-29 17:30:03,Reseller_021,West,Ahmedabad,Kids Wear,1,843.48,843.48,Delivered,843.48
+ORD0438,2026-05-29 16:15:40,Reseller_005,North,Jaipur,Home & Kitchen,5,4830.62,24153.1,Delivered,24153.1
+ORD0439,2026-05-26 15:22:58,Reseller_013,East,Kolkata,Kids Wear,5,1355.5,6777.5,Delivered,6777.5
+ORD0440,2026-05-11 19:14:01,Reseller_013,East,Kolkata,Kids Wear,3,334.76,1004.28,Delivered,1004.28
+ORD0441,2026-05-19 07:10:06,Reseller_016,East,Kolkata,Beauty & Personal Care,2,1676.47,3352.94,Delivered,3352.94
+ORD0442,2026-05-30 23:03:48,Reseller_009,South,Hyderabad,Beauty & Personal Care,2,1481.66,2963.32,Returned,2963.32
+ORD0443,2026-05-28 05:11:15,Reseller_013,East,Kolkata,Kids Wear,5,931.41,4657.05,Cancelled,4657.05
+ORD0444,2026-05-01 22:44:22,Reseller_024,West,Ahmedabad,Kids Wear,5,1496.29,7481.45,Cancelled,7481.45
+ORD0445,2026-05-26 15:34:19,Reseller_019,West,Mumbai,Western Wear,2,2165.57,4331.14,Returned,4331.14
+ORD0446,2026-05-08 00:33:30,Reseller_003,North,Lucknow,Ethnic Wear,1,1992.8,1992.8,Delivered,1992.8
+ORD0447,2026-05-11 22:11:58,Reseller_020,West,Pune,Western Wear,3,614.4,1843.2,Returned,1843.1999999999998
+ORD0448,2026-05-05 03:54:33,Reseller_005,North,Jaipur,Beauty & Personal Care,3,2405.34,7216.02,Returned,7216.02
+ORD0449,2026-05-11 09:20:08,Reseller_012,South,Hyderabad,Home & Kitchen,2,4474.41,8948.82,Delivered,8948.82
+ORD0450,2026-05-06 22:35:44,Reseller_014,East,Bhubaneswar,Home & Kitchen,5,4785.85,23929.25,Delivered,23929.25
+ORD0451,2026-05-13 09:46:44,Reseller_008,South,Bengaluru,Beauty & Personal Care,3,405.64,1216.92,Returned,1216.92
+ORD0452,2026-05-31 18:25:54,Reseller_024,West,Ahmedabad,Ethnic Wear,5,645.72,3228.6,Cancelled,3228.6000000000004
+ORD0453,2026-05-31 19:14:40,Reseller_020,West,Pune,Kids Wear,5,439.45,2197.25,Cancelled,2197.25
+ORD0454,2026-05-03 07:22:20,Reseller_016,East,Kolkata,Western Wear,2,2690.27,5380.54,Delivered,5380.54
+ORD0455,2026-05-09 06:15:44,Reseller_003,North,Lucknow,Kids Wear,1,1006.11,1006.11,Delivered,1006.11
+ORD0456,2026-05-15 23:26:10,Reseller_004,North,Delhi,Ethnic Wear,4,2718.87,10875.48,Delivered,10875.48
+ORD0457,2026-05-04 15:50:55,Reseller_013,East,Kolkata,Kids Wear,5,1697.23,8486.15,Delivered,8486.15
+ORD0458,2026-05-03 01:18:01,Reseller_022,West,Mumbai,Western Wear,3,1340.06,4020.18,Delivered,4020.18
+ORD0459,2026-05-29 12:10:46,Reseller_004,North,Delhi,Ethnic Wear,1,2961.71,2961.71,Delivered,2961.71
+ORD0460,2026-05-20 15:45:01,Reseller_003,North,Lucknow,Kids Wear,4,2367.62,9470.48,Delivered,9470.48
+ORD0461,2026-05-06 01:06:21,Reseller_006,North,Lucknow,Beauty & Personal Care,2,2438.56,4877.12,Cancelled,4877.12
+ORD0462,2026-05-24 17:16:42,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,3,813.76,2441.28,Returned,2441.2799999999997
+ORD0463,2026-05-18 15:09:03,Reseller_004,North,Delhi,Ethnic Wear,3,517.17,1551.51,Delivered,1551.5099999999998
+ORD0464,2026-05-21 19:30:12,Reseller_003,North,Lucknow,Kids Wear,1,259.19,259.19,Returned,259.19
+ORD0465,2026-05-16 03:19:50,Reseller_006,North,Lucknow,Kids Wear,4,1283.17,5132.68,Pending,5132.68
+ORD0466,2026-05-18 12:11:23,Reseller_022,West,Mumbai,Kids Wear,4,1049.62,4198.48,Delivered,4198.48
+ORD0467,2026-05-15 08:14:53,Reseller_015,East,Guwahati,Ethnic Wear,3,3039.11,9117.33,Delivered,9117.33
+ORD0468,2026-05-12 17:26:48,Reseller_005,North,Jaipur,Ethnic Wear,5,1523.81,7619.05,Delivered,7619.049999999999
+ORD0469,2026-05-14 17:43:55,Reseller_002,North,Jaipur,Home & Kitchen,4,3564.47,14257.88,Returned,14257.88
+ORD0470,2026-05-13 22:02:32,Reseller_008,South,Bengaluru,Home & Kitchen,5,5432.59,27162.95,Delivered,27162.95
+ORD0471,2026-05-31 14:11:10,Reseller_019,West,Mumbai,Beauty & Personal Care,2,2040.31,4080.62,Delivered,4080.62
+ORD0472,2026-05-22 13:12:52,Reseller_005,North,Jaipur,Ethnic Wear,2,4253.49,8506.98,Delivered,8506.98
+ORD0473,2026-05-30 02:05:24,Reseller_009,South,Hyderabad,Kids Wear,5,1113.92,5569.6,Cancelled,5569.6
+ORD0474,2026-05-30 00:50:44,Reseller_011,South,Bengaluru,Kids Wear,5,1551.43,7757.15,Delivered,7757.150000000001
+ORD0475,2026-05-05 18:37:37,Reseller_014,East,Bhubaneswar,Ethnic Wear,1,4662.18,4662.18,Delivered,4662.18
+ORD0476,2026-05-28 17:56:22,Reseller_019,West,Mumbai,Ethnic Wear,4,1688.61,6754.44,Returned,6754.44
+ORD0477,2026-05-16 01:11:17,Reseller_021,West,Ahmedabad,Home & Kitchen,4,1119.96,4479.84,Delivered,4479.84
+ORD0478,2026-05-29 10:44:15,Reseller_020,West,Pune,Home & Kitchen,1,4550.77,4550.77,Delivered,4550.77
+ORD0479,2026-05-27 09:19:17,Reseller_009,South,Hyderabad,Kids Wear,4,2173.94,8695.76,Delivered,8695.76
+ORD0480,2026-05-08 04:19:47,Reseller_022,West,Mumbai,Ethnic Wear,4,3983.14,15932.56,Pending,15932.56
+ORD0481,2026-05-20 20:05:12,Reseller_011,South,Bengaluru,Kids Wear,4,686.2,2744.8,Returned,2744.8
+ORD0482,2026-05-28 11:52:03,Reseller_014,East,Bhubaneswar,Home & Kitchen,5,4811.5,24057.5,Returned,24057.5
+ORD0483,2026-05-13 04:49:54,Reseller_003,North,Lucknow,Kids Wear,5,2222.46,11112.3,Returned,11112.3
+ORD0484,2026-05-27 06:53:03,Reseller_001,North,Delhi,Western Wear,2,519.06,1038.12,Delivered,1038.12
+ORD0485,2026-05-09 11:52:29,Reseller_002,North,Jaipur,Kids Wear,5,1112.97,5564.85,Returned,5564.85
+ORD0486,2026-05-16 19:28:11,Reseller_004,North,Delhi,Ethnic Wear,4,3140.96,12563.84,Delivered,12563.84
+ORD0487,2026-05-29 08:47:53,Reseller_012,South,Hyderabad,Kids Wear,1,855.66,855.66,Delivered,855.66
+ORD0488,2026-05-19 06:54:14,Reseller_013,East,Kolkata,Ethnic Wear,2,3549.63,7099.26,Delivered,7099.26
+ORD0489,2026-05-28 21:00:30,Reseller_009,South,Hyderabad,Home & Kitchen,2,3990.02,7980.04,Delivered,7980.04
+ORD0490,2026-05-20 09:45:45,Reseller_020,West,Pune,Ethnic Wear,3,2407.13,7221.39,Delivered,7221.39
+ORD0491,2026-05-07 14:19:43,Reseller_013,East,Kolkata,Kids Wear,5,2095.91,10479.55,Delivered,10479.55
+ORD0492,2026-05-17 21:53:53,Reseller_013,East,Kolkata,Beauty & Personal Care,3,1447.5,4342.5,Delivered,4342.5
+ORD0493,2026-05-22 03:30:04,Reseller_020,West,Pune,Beauty & Personal Care,3,2472.07,7416.21,Delivered,7416.210000000001
+ORD0494,2026-05-09 20:45:57,Reseller_021,West,Ahmedabad,Kids Wear,3,633.23,1899.69,Cancelled,1899.69
+ORD0495,2026-05-26 19:25:42,Reseller_017,East,Bhubaneswar,Western Wear,3,2850.72,8552.16,Cancelled,8552.16
+ORD0496,2026-05-10 08:58:26,Reseller_024,West,Ahmedabad,Ethnic Wear,4,2247.24,8988.96,Delivered,8988.96
+ORD0497,2026-05-19 06:21:46,Reseller_002,North,Jaipur,Beauty & Personal Care,2,1747.16,3494.32,Returned,3494.32
+ORD0498,2026-05-22 11:32:19,Reseller_021,West,Ahmedabad,Home & Kitchen,2,5091.64,10183.28,Cancelled,10183.28
+ORD0499,2026-05-16 04:47:16,Reseller_018,East,Guwahati,Western Wear,5,3146.51,15732.55,Delivered,15732.550000000001
+ORD0500,2026-05-08 11:14:47,Reseller_006,North,Lucknow,Kids Wear,3,1167.09,3501.27,Delivered,3501.2699999999995
+ORD0501,2026-05-10 14:54:07,Reseller_011,South,Bengaluru,Kids Wear,4,323.46,1293.84,Delivered,1293.84
+ORD0502,2026-05-20 02:30:56,Reseller_021,West,Ahmedabad,Beauty & Personal Care,2,1301.15,2602.3,Delivered,2602.3
+ORD0503,2026-05-14 01:55:54,Reseller_022,West,Mumbai,Home & Kitchen,2,1082.98,2165.96,Delivered,2165.96
+ORD0504,2026-05-19 14:09:20,Reseller_007,South,Chennai,Kids Wear,2,1991.56,3983.12,Delivered,3983.12
+ORD0505,2026-05-06 10:40:03,Reseller_016,East,Kolkata,Kids Wear,1,1239.72,1239.72,Delivered,1239.72
+ORD0506,2026-05-06 15:50:48,Reseller_007,South,Chennai,Western Wear,1,865.86,865.86,Delivered,865.86
+ORD0507,2026-05-31 15:24:00,Reseller_014,East,Bhubaneswar,Home & Kitchen,1,3342.56,3342.56,Delivered,3342.56
+ORD0508,2026-05-29 10:48:53,Reseller_024,West,Ahmedabad,Kids Wear,5,638.33,3191.65,Pending,3191.65
+ORD0509,2026-05-08 07:44:56,Reseller_022,West,Mumbai,Ethnic Wear,3,1904.42,5713.26,Delivered,5713.26
+ORD0510,2026-05-10 05:04:52,Reseller_004,North,Delhi,Home & Kitchen,1,1999.75,1999.75,Delivered,1999.75
+ORD0511,2026-05-20 16:21:27,Reseller_010,South,Chennai,Home & Kitchen,2,2253.58,4507.16,Returned,4507.16
+ORD0512,2026-05-06 12:01:14,Reseller_016,East,Kolkata,Kids Wear,2,1872.49,3744.98,Returned,3744.98
+ORD0513,2026-05-19 16:10:07,Reseller_005,North,Jaipur,Western Wear,3,2960.0,8880.0,Returned,8880.0
+ORD0514,2026-05-09 17:39:03,Reseller_002,North,Jaipur,Home & Kitchen,5,5969.68,29848.4,Cancelled,29848.4
+ORD0515,2026-05-01 01:44:07,Reseller_022,West,Mumbai,Ethnic Wear,4,2499.41,9997.64,Delivered,9997.64
+ORD0516,2026-05-23 04:13:44,Reseller_004,North,Delhi,Beauty & Personal Care,1,822.68,822.68,Delivered,822.68
+ORD0517,2026-05-09 19:38:44,Reseller_022,West,Mumbai,Ethnic Wear,2,2384.72,4769.44,Delivered,4769.44
+ORD0518,2026-05-04 09:07:50,Reseller_004,North,Delhi,Beauty & Personal Care,1,1294.57,1294.57,Returned,1294.57
+ORD0519,2026-05-27 16:12:22,Reseller_020,West,Pune,Western Wear,4,1463.26,5853.04,Returned,5853.04
+ORD0520,2026-05-07 22:59:30,Reseller_002,North,Jaipur,Beauty & Personal Care,3,662.81,1988.43,Delivered,1988.4299999999998
+ORD0521,2026-05-27 18:42:31,Reseller_001,North,Delhi,Ethnic Wear,2,4772.51,9545.02,Cancelled,9545.02
+ORD0522,2026-05-04 08:41:14,Reseller_017,East,Bhubaneswar,Ethnic Wear,4,4949.0,19796.0,Returned,19796.0
+ORD0523,2026-05-04 05:55:02,Reseller_010,South,Chennai,Kids Wear,3,1028.49,3085.47,Delivered,3085.4700000000003
+ORD0524,2026-05-04 03:54:48,Reseller_022,West,Mumbai,Kids Wear,1,222.25,222.25,Delivered,222.25
+ORD0525,2026-05-29 14:39:17,Reseller_005,North,Jaipur,Western Wear,1,1741.44,1741.44,Delivered,1741.44
+ORD0526,2026-05-13 14:17:53,Reseller_011,South,Bengaluru,Western Wear,4,2883.65,11534.6,Delivered,11534.6
+ORD0527,2026-05-26 05:07:08,Reseller_016,East,Kolkata,Home & Kitchen,1,5894.94,5894.94,Delivered,5894.94
+ORD0528,2026-05-19 15:51:36,Reseller_006,North,Lucknow,Ethnic Wear,4,1315.67,5262.68,Delivered,5262.68
+ORD0529,2026-05-28 21:56:53,Reseller_013,East,Kolkata,Kids Wear,2,1311.08,2622.16,Delivered,2622.16
+ORD0530,2026-05-15 01:04:16,Reseller_016,East,Kolkata,Ethnic Wear,3,555.62,1666.86,Cancelled,1666.8600000000001
+ORD0531,2026-05-19 23:36:14,Reseller_022,West,Mumbai,Beauty & Personal Care,3,1345.84,4037.52,Returned,4037.5199999999995
+ORD0532,2026-05-22 23:15:30,Reseller_023,West,Pune,Beauty & Personal Care,3,1692.91,5078.73,Delivered,5078.7300000000005
+ORD0533,2026-05-27 17:57:39,Reseller_021,West,Ahmedabad,Home & Kitchen,1,366.38,366.38,Delivered,366.38
+ORD0534,2026-05-28 15:55:10,Reseller_006,North,Lucknow,Beauty & Personal Care,1,1903.43,1903.43,Returned,1903.43
+ORD0535,2026-05-09 01:32:14,Reseller_011,South,Bengaluru,Western Wear,5,2715.94,13579.7,Delivered,13579.7
+ORD0536,2026-05-15 18:28:05,Reseller_013,East,Kolkata,Western Wear,4,2009.45,8037.8,Delivered,8037.8
+ORD0537,2026-05-01 03:25:26,Reseller_004,North,Delhi,Home & Kitchen,1,3475.65,3475.65,Returned,3475.65
+ORD0538,2026-05-31 19:40:19,Reseller_001,North,Delhi,Ethnic Wear,5,3030.5,15152.5,Returned,15152.5
+ORD0539,2026-05-12 01:52:14,Reseller_021,West,Ahmedabad,Home & Kitchen,4,2192.24,8768.96,Pending,8768.96
+ORD0540,2026-05-22 11:45:28,Reseller_020,West,Pune,Beauty & Personal Care,1,333.85,333.85,Delivered,333.85
+ORD0541,2026-05-12 20:51:18,Reseller_022,West,Mumbai,Western Wear,5,2279.15,11395.75,Delivered,11395.75
+ORD0542,2026-05-06 15:08:52,Reseller_023,West,Pune,Ethnic Wear,4,981.33,3925.32,Delivered,3925.32
+ORD0543,2026-05-30 12:13:29,Reseller_020,West,Pune,Western Wear,2,2980.44,5960.88,Delivered,5960.88
+ORD0544,2026-05-21 21:37:07,Reseller_004,North,Delhi,Home & Kitchen,4,2907.11,11628.44,Delivered,11628.44
+ORD0545,2026-05-16 00:33:47,Reseller_019,West,Mumbai,Beauty & Personal Care,1,1427.74,1427.74,Delivered,1427.74
+ORD0546,2026-05-17 05:44:37,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,2,1853.19,3706.38,Delivered,3706.38
+ORD0547,2026-05-20 19:56:20,Reseller_005,North,Jaipur,Ethnic Wear,5,4466.26,22331.3,Delivered,22331.300000000003
+ORD0548,2026-05-25 07:17:25,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,3,2429.18,7287.54,Cancelled,7287.539999999999
+ORD0549,2026-05-20 22:56:47,Reseller_015,East,Guwahati,Western Wear,5,1476.09,7380.45,Delivered,7380.45
+ORD0550,2026-05-23 23:59:35,Reseller_023,West,Pune,Beauty & Personal Care,2,582.13,1164.26,Cancelled,1164.26
+ORD0551,2026-05-30 21:08:45,Reseller_020,West,Pune,Kids Wear,2,1358.95,2717.9,Delivered,2717.9
+ORD0552,2026-05-25 11:35:30,Reseller_023,West,Pune,Kids Wear,5,1512.47,7562.35,Returned,7562.35
+ORD0553,2026-05-29 17:18:56,Reseller_022,West,Mumbai,Home & Kitchen,4,4907.34,19629.36,Delivered,19629.36
+ORD0554,2026-05-05 01:42:03,Reseller_017,East,Bhubaneswar,Ethnic Wear,2,1701.4,3402.8,Delivered,3402.8
+ORD0555,2026-05-05 01:44:50,Reseller_006,North,Lucknow,Kids Wear,3,669.2,2007.6,Delivered,2007.6000000000001
+ORD0556,2026-05-15 03:39:55,Reseller_018,East,Guwahati,Ethnic Wear,5,4391.79,21958.95,Delivered,21958.95
+ORD0557,2026-05-17 22:18:44,Reseller_024,West,Ahmedabad,Beauty & Personal Care,1,2323.56,2323.56,Delivered,2323.56
+ORD0558,2026-05-22 10:35:03,Reseller_013,East,Kolkata,Home & Kitchen,1,4538.92,4538.92,Pending,4538.92
+ORD0559,2026-05-28 14:53:14,Reseller_007,South,Chennai,Beauty & Personal Care,3,1912.26,5736.78,Cancelled,5736.78
+ORD0560,2026-05-24 06:18:28,Reseller_018,East,Guwahati,Beauty & Personal Care,2,2460.29,4920.58,Delivered,4920.58
+ORD0561,2026-05-24 16:07:24,Reseller_003,North,Lucknow,Western Wear,1,1942.63,1942.63,Pending,1942.63
+ORD0562,2026-05-19 08:00:21,Reseller_018,East,Guwahati,Kids Wear,4,1832.29,7329.16,Delivered,7329.16
+ORD0563,2026-05-11 19:03:49,Reseller_005,North,Jaipur,Ethnic Wear,5,4294.13,21470.65,Delivered,21470.65
+ORD0564,2026-05-18 11:04:50,Reseller_010,South,Chennai,Home & Kitchen,3,3294.75,9884.25,Returned,9884.25
+ORD0565,2026-05-17 05:26:34,Reseller_006,North,Lucknow,Beauty & Personal Care,5,1068.2,5341.0,Delivered,5341.0
+ORD0566,2026-05-22 10:21:23,Reseller_012,South,Hyderabad,Western Wear,3,1186.4,3559.2,Cancelled,3559.2000000000003
+ORD0567,2026-05-18 20:00:07,Reseller_020,West,Pune,Beauty & Personal Care,3,1169.6,3508.8,Delivered,3508.7999999999997
+ORD0568,2026-05-08 01:43:56,Reseller_021,West,Ahmedabad,Beauty & Personal Care,3,1015.29,3045.87,Cancelled,3045.87
+ORD0569,2026-05-24 09:01:58,Reseller_004,North,Delhi,Home & Kitchen,5,4986.02,24930.1,Delivered,24930.100000000002
+ORD0570,2026-05-15 15:02:18,Reseller_012,South,Hyderabad,Beauty & Personal Care,2,868.75,1737.5,Returned,1737.5
+ORD0571,2026-05-31 17:34:00,Reseller_003,North,Lucknow,Ethnic Wear,1,1448.52,1448.52,Delivered,1448.52
+ORD0572,2026-05-14 03:13:34,Reseller_021,West,Ahmedabad,Western Wear,4,2727.62,10910.48,Cancelled,10910.48
+ORD0573,2026-05-23 10:02:05,Reseller_003,North,Lucknow,Western Wear,1,595.37,595.37,Delivered,595.37
+ORD0574,2026-05-27 07:58:16,Reseller_009,South,Hyderabad,Beauty & Personal Care,4,1031.28,4125.12,Delivered,4125.12
+ORD0575,2026-05-01 12:43:07,Reseller_021,West,Ahmedabad,Home & Kitchen,5,333.62,1668.1,Delivered,1668.1
+ORD0576,2026-05-24 18:02:44,Reseller_024,West,Ahmedabad,Beauty & Personal Care,1,958.48,958.48,Delivered,958.48
+ORD0577,2026-05-22 09:38:05,Reseller_017,East,Bhubaneswar,Ethnic Wear,3,3943.73,11831.19,Delivered,11831.19
+ORD0578,2026-05-22 00:30:10,Reseller_015,East,Guwahati,Home & Kitchen,5,1553.23,7766.15,Delivered,7766.15
+ORD0579,2026-05-28 17:18:40,Reseller_024,West,Ahmedabad,Home & Kitchen,2,1998.92,3997.84,Returned,3997.84
+ORD0580,2026-05-01 17:55:35,Reseller_024,West,Ahmedabad,Kids Wear,2,483.44,966.88,Pending,966.88
+ORD0581,2026-05-18 17:05:19,Reseller_001,North,Delhi,Beauty & Personal Care,2,1895.91,3791.82,Delivered,3791.82
+ORD0582,2026-05-29 20:54:32,Reseller_024,West,Ahmedabad,Kids Wear,2,570.2,1140.4,Delivered,1140.4
+ORD0583,2026-05-07 03:11:42,Reseller_008,South,Bengaluru,Beauty & Personal Care,5,2145.4,10727.0,Returned,10727.0
+ORD0584,2026-05-03 09:42:04,Reseller_018,East,Guwahati,Home & Kitchen,3,859.75,2579.25,Delivered,2579.25
+ORD0585,2026-05-11 11:08:42,Reseller_024,West,Ahmedabad,Beauty & Personal Care,2,340.11,680.22,Delivered,680.22
+ORD0586,2026-05-11 15:28:21,Reseller_020,West,Pune,Ethnic Wear,5,3467.4,17337.0,Cancelled,17337.0
+ORD0587,2026-05-19 11:51:20,Reseller_023,West,Pune,Beauty & Personal Care,4,504.73,2018.92,Delivered,2018.92
+ORD0588,2026-05-23 23:41:27,Reseller_011,South,Bengaluru,Western Wear,3,3424.4,10273.2,Returned,10273.2
+ORD0589,2026-05-15 14:22:49,Reseller_005,North,Jaipur,Kids Wear,3,1320.03,3960.09,Cancelled,3960.09
+ORD0590,2026-05-03 08:54:52,Reseller_004,North,Delhi,Western Wear,2,3608.67,7217.34,Delivered,7217.34
+ORD0591,2026-05-21 02:46:04,Reseller_007,South,Chennai,Kids Wear,1,2154.05,2154.05,Returned,2154.05
+ORD0592,2026-05-19 12:49:37,Reseller_021,West,Ahmedabad,Ethnic Wear,2,4578.37,9156.74,Returned,9156.74
+ORD0593,2026-05-18 15:41:49,Reseller_018,East,Guwahati,Kids Wear,2,1041.38,2082.76,Delivered,2082.76
+ORD0594,2026-05-10 04:29:32,Reseller_008,South,Bengaluru,Beauty & Personal Care,5,317.33,1586.65,Returned,1586.6499999999999
+ORD0595,2026-05-08 19:43:10,Reseller_012,South,Hyderabad,Beauty & Personal Care,5,436.89,2184.45,Delivered,2184.45
+ORD0596,2026-05-19 21:55:09,Reseller_006,North,Lucknow,Western Wear,4,3781.03,15124.12,Delivered,15124.12
+ORD0597,2026-05-08 02:16:23,Reseller_002,North,Jaipur,Western Wear,2,554.11,1108.22,Returned,1108.22
+ORD0598,2026-05-12 12:30:58,Reseller_007,South,Chennai,Beauty & Personal Care,4,2215.72,8862.88,Cancelled,8862.88
+ORD0599,2026-05-31 16:40:53,Reseller_002,North,Jaipur,Kids Wear,3,2120.21,6360.63,Delivered,6360.63
+ORD0600,2026-05-06 12:41:24,Reseller_009,South,Hyderabad,Beauty & Personal Care,3,1510.43,4531.29,Delivered,4531.29
+ORD0601,2026-06-30 07:33:25,Reseller_003,North,Lucknow,Beauty & Personal Care,3,2061.37,6184.11,Delivered,6184.11
+ORD0602,2026-06-29 19:00:32,Reseller_012,South,Hyderabad,Home & Kitchen,2,2807.42,5614.84,Returned,5614.84
+ORD0603,2026-06-09 06:09:11,Reseller_008,South,Bengaluru,Ethnic Wear,2,2130.0,4260.0,Delivered,4260.0
+ORD0604,2026-06-14 10:46:07,Reseller_023,West,Pune,Ethnic Wear,4,3538.53,14154.12,Delivered,14154.12
+ORD0605,2026-06-21 13:01:15,Reseller_016,East,Kolkata,Western Wear,1,860.39,860.39,Delivered,860.39
+ORD0606,2026-06-17 01:57:36,Reseller_019,West,Mumbai,Western Wear,2,601.28,1202.56,Delivered,1202.56
+ORD0607,2026-06-13 19:36:40,Reseller_009,South,Hyderabad,Western Wear,1,3562.63,3562.63,Delivered,3562.63
+ORD0608,2026-06-07 14:38:30,Reseller_024,West,Ahmedabad,Kids Wear,4,592.3,2369.2,Cancelled,2369.2
+ORD0609,2026-06-19 05:39:42,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,5,734.85,3674.25,Delivered,3674.25
+ORD0610,2026-06-20 18:04:14,Reseller_024,West,Ahmedabad,Kids Wear,4,1086.56,4346.24,Cancelled,4346.24
+ORD0611,2026-06-28 16:43:26,Reseller_004,North,Delhi,Ethnic Wear,2,3224.8,6449.6,Delivered,6449.6
+ORD0612,2026-06-20 01:56:50,Reseller_006,North,Lucknow,Home & Kitchen,5,3168.98,15844.9,Cancelled,15844.9
+ORD0613,2026-06-05 19:34:52,Reseller_004,North,Delhi,Ethnic Wear,1,4536.36,4536.36,Delivered,4536.36
+ORD0614,2026-06-12 01:44:33,Reseller_022,West,Mumbai,Home & Kitchen,4,1608.07,6432.28,Delivered,6432.28
+ORD0615,2026-06-26 23:58:48,Reseller_016,East,Kolkata,Home & Kitchen,5,856.99,4284.95,Delivered,4284.95
+ORD0616,2026-06-08 02:18:38,Reseller_005,North,Jaipur,Kids Wear,5,1139.89,5699.45,Delivered,5699.450000000001
+ORD0617,2026-06-26 00:36:33,Reseller_007,South,Chennai,Ethnic Wear,1,2838.93,2838.93,Returned,2838.93
+ORD0618,2026-06-11 13:23:06,Reseller_013,East,Kolkata,Western Wear,2,1933.86,3867.72,Delivered,3867.72
+ORD0619,2026-06-18 13:36:23,Reseller_019,West,Mumbai,Kids Wear,5,833.79,4168.95,Delivered,4168.95
+ORD0620,2026-06-14 17:50:35,Reseller_022,West,Mumbai,Home & Kitchen,4,1318.7,5274.8,Returned,5274.8
+ORD0621,2026-06-10 18:22:49,Reseller_018,East,Guwahati,Beauty & Personal Care,4,1865.88,7463.52,Delivered,7463.52
+ORD0622,2026-06-15 22:10:06,Reseller_022,West,Mumbai,Ethnic Wear,2,2787.55,5575.1,Returned,5575.1
+ORD0623,2026-06-22 22:03:10,Reseller_011,South,Bengaluru,Beauty & Personal Care,4,2414.97,9659.88,Delivered,9659.88
+ORD0624,2026-06-16 19:27:05,Reseller_001,North,Delhi,Ethnic Wear,1,1683.91,1683.91,Returned,1683.91
+ORD0625,2026-06-24 12:59:25,Reseller_012,South,Hyderabad,Ethnic Wear,5,3452.79,17263.95,Delivered,17263.95
+ORD0626,2026-06-25 05:40:31,Reseller_010,South,Chennai,Beauty & Personal Care,4,125.7,502.8,Delivered,502.8
+ORD0627,2026-06-02 19:32:33,Reseller_022,West,Mumbai,Beauty & Personal Care,2,1576.46,3152.92,Delivered,3152.92
+ORD0628,2026-06-21 00:10:05,Reseller_022,West,Mumbai,Ethnic Wear,3,4008.53,12025.59,Delivered,12025.59
+ORD0629,2026-06-07 16:00:47,Reseller_012,South,Hyderabad,Home & Kitchen,1,5539.31,5539.31,Delivered,5539.31
+ORD0630,2026-06-18 18:22:22,Reseller_018,East,Guwahati,Kids Wear,3,720.48,2161.44,Returned,2161.44
+ORD0631,2026-06-19 00:16:11,Reseller_007,South,Chennai,Home & Kitchen,4,3185.56,12742.24,Cancelled,12742.24
+ORD0632,2026-06-11 03:51:32,Reseller_018,East,Guwahati,Ethnic Wear,3,4442.51,13327.53,Delivered,13327.53
+ORD0633,2026-06-13 18:30:49,Reseller_019,West,Mumbai,Kids Wear,2,1942.19,3884.38,Delivered,3884.38
+ORD0634,2026-06-28 00:30:07,Reseller_015,East,Guwahati,Home & Kitchen,3,685.06,2055.18,Cancelled,2055.18
+ORD0635,2026-06-08 10:26:22,Reseller_021,West,Ahmedabad,Western Wear,5,2328.35,11641.75,Delivered,11641.75
+ORD0636,2026-06-03 12:43:47,Reseller_023,West,Pune,Kids Wear,3,374.87,1124.61,Delivered,1124.6100000000001
+ORD0637,2026-06-07 18:17:11,Reseller_006,North,Lucknow,Home & Kitchen,2,3144.3,6288.6,Delivered,6288.6
+ORD0638,2026-06-28 08:13:14,Reseller_007,South,Chennai,Western Wear,2,3405.79,6811.58,Returned,6811.58
+ORD0639,2026-06-04 03:58:05,Reseller_020,West,Pune,Kids Wear,4,1611.8,6447.2,Delivered,6447.2
+ORD0640,2026-06-12 19:20:31,Reseller_018,East,Guwahati,Ethnic Wear,5,4409.46,22047.3,Returned,22047.3
+ORD0641,2026-06-30 16:17:25,Reseller_016,East,Kolkata,Western Wear,2,3100.61,6201.22,Pending,6201.22
+ORD0642,2026-06-14 15:34:02,Reseller_005,North,Jaipur,Ethnic Wear,5,2062.8,10314.0,Delivered,10314.0
+ORD0643,2026-06-04 22:33:29,Reseller_022,West,Mumbai,Western Wear,3,2881.16,8643.48,Delivered,8643.48
+ORD0644,2026-06-04 10:23:39,Reseller_001,North,Delhi,Western Wear,3,1073.75,3221.25,Delivered,3221.25
+ORD0645,2026-06-20 10:23:11,Reseller_009,South,Hyderabad,Western Wear,4,1926.19,7704.76,Delivered,7704.76
+ORD0646,2026-06-13 08:28:11,Reseller_014,East,Bhubaneswar,Kids Wear,5,501.62,2508.1,Delivered,2508.1
+ORD0647,2026-06-24 08:51:15,Reseller_019,West,Mumbai,Western Wear,5,1955.99,9779.95,Returned,9779.95
+ORD0648,2026-06-24 04:30:51,Reseller_013,East,Kolkata,Western Wear,1,1035.79,1035.79,Delivered,1035.79
+ORD0649,2026-06-28 20:33:34,Reseller_016,East,Kolkata,Western Wear,3,3227.2,9681.6,Pending,9681.599999999999
+ORD0650,2026-06-19 01:25:06,Reseller_010,South,Chennai,Kids Wear,2,338.08,676.16,Delivered,676.16
+ORD0651,2026-06-04 14:47:21,Reseller_009,South,Hyderabad,Home & Kitchen,3,2357.48,7072.44,Returned,7072.4400000000005
+ORD0652,2026-06-09 11:01:26,Reseller_018,East,Guwahati,Beauty & Personal Care,1,942.62,942.62,Cancelled,942.62
+ORD0653,2026-06-19 20:41:34,Reseller_022,West,Mumbai,Beauty & Personal Care,2,2450.5,4901.0,Delivered,4901.0
+ORD0654,2026-06-17 15:49:47,Reseller_010,South,Chennai,Kids Wear,4,2246.15,8984.6,Delivered,8984.6
+ORD0655,2026-06-21 04:55:10,Reseller_013,East,Kolkata,Beauty & Personal Care,3,1112.36,3337.08,Delivered,3337.08
+ORD0656,2026-06-30 02:05:10,Reseller_020,West,Pune,Beauty & Personal Care,3,647.72,1943.16,Delivered,1943.16
+ORD0657,2026-06-20 20:25:17,Reseller_011,South,Bengaluru,Kids Wear,4,1996.24,7984.96,Returned,7984.96
+ORD0658,2026-06-15 13:10:11,Reseller_012,South,Hyderabad,Beauty & Personal Care,1,400.1,400.1,Delivered,400.1
+ORD0659,2026-06-23 23:05:13,Reseller_008,South,Bengaluru,Kids Wear,2,1113.2,2226.4,Cancelled,2226.4
+ORD0660,2026-06-16 17:03:01,Reseller_004,North,Delhi,Ethnic Wear,4,2857.92,11431.68,Cancelled,11431.68
+ORD0661,2026-06-05 02:41:59,Reseller_003,North,Lucknow,Ethnic Wear,4,1892.17,7568.68,Delivered,7568.68
+ORD0662,2026-06-05 04:33:53,Reseller_008,South,Bengaluru,Kids Wear,2,265.71,531.42,Delivered,531.42
+ORD0663,2026-06-11 15:29:55,Reseller_022,West,Mumbai,Kids Wear,5,2350.17,11750.85,Cancelled,11750.85
+ORD0664,2026-06-23 17:11:37,Reseller_018,East,Guwahati,Home & Kitchen,5,2902.3,14511.5,Delivered,14511.5
+ORD0665,2026-06-21 20:34:19,Reseller_024,West,Ahmedabad,Beauty & Personal Care,3,1255.96,3767.88,Delivered,3767.88
+ORD0666,2026-06-12 13:16:09,Reseller_008,South,Bengaluru,Ethnic Wear,3,547.5,1642.5,Delivered,1642.5
+ORD0667,2026-06-16 17:00:44,Reseller_017,East,Bhubaneswar,Western Wear,4,3809.05,15236.2,Delivered,15236.2
+ORD0668,2026-06-14 09:38:14,Reseller_016,East,Kolkata,Kids Wear,1,1460.89,1460.89,Delivered,1460.89
+ORD0669,2026-06-14 12:15:10,Reseller_007,South,Chennai,Home & Kitchen,4,5022.03,20088.12,Cancelled,20088.12
+ORD0670,2026-06-21 07:33:48,Reseller_008,South,Bengaluru,Kids Wear,5,2057.42,10287.1,Delivered,10287.1
+ORD0671,2026-06-24 17:51:17,Reseller_022,West,Mumbai,Kids Wear,4,632.4,2529.6,Delivered,2529.6
+ORD0672,2026-06-04 20:29:39,Reseller_003,North,Lucknow,Western Wear,4,1379.68,5518.72,Delivered,5518.72
+ORD0673,2026-06-01 04:03:34,Reseller_020,West,Pune,Home & Kitchen,1,1359.84,1359.84,Delivered,1359.84
+ORD0674,2026-06-23 14:46:00,Reseller_004,North,Delhi,Kids Wear,2,407.45,814.9,Delivered,814.9
+ORD0675,2026-06-14 09:50:51,Reseller_001,North,Delhi,Home & Kitchen,4,5988.39,23953.56,Delivered,23953.56
+ORD0676,2026-06-27 04:03:17,Reseller_015,East,Guwahati,Ethnic Wear,4,821.23,3284.92,Delivered,3284.92
+ORD0677,2026-06-27 08:52:24,Reseller_016,East,Kolkata,Western Wear,1,839.06,839.06,Delivered,839.06
+ORD0678,2026-06-15 07:47:02,Reseller_023,West,Pune,Western Wear,2,2059.0,4118.0,Delivered,4118.0
+ORD0679,2026-06-07 15:24:43,Reseller_004,North,Delhi,Beauty & Personal Care,3,2346.92,7040.76,Delivered,7040.76
+ORD0680,2026-06-18 16:07:16,Reseller_006,North,Lucknow,Ethnic Wear,4,3373.34,13493.36,Returned,13493.36
+ORD0681,2026-06-28 21:13:07,Reseller_007,South,Chennai,Kids Wear,2,1655.69,3311.38,Cancelled,3311.38
+ORD0682,2026-06-09 18:07:25,Reseller_011,South,Bengaluru,Ethnic Wear,2,540.18,1080.36,Delivered,1080.36
+ORD0683,2026-06-16 22:38:09,Reseller_002,North,Jaipur,Beauty & Personal Care,3,1949.91,5849.73,Returned,5849.7300000000005
+ORD0684,2026-06-22 19:21:59,Reseller_008,South,Bengaluru,Western Wear,1,615.19,615.19,Delivered,615.19
+ORD0685,2026-06-26 03:08:31,Reseller_021,West,Ahmedabad,Western Wear,2,1540.26,3080.52,Returned,3080.52
+ORD0686,2026-06-15 23:12:01,Reseller_018,East,Guwahati,Kids Wear,4,1023.79,4095.16,Returned,4095.16
+ORD0687,2026-06-16 22:28:35,Reseller_005,North,Jaipur,Kids Wear,3,1448.29,4344.87,Cancelled,4344.87
+ORD0688,2026-06-18 11:20:46,Reseller_016,East,Kolkata,Western Wear,4,1391.17,5564.68,Delivered,5564.68
+ORD0689,2026-06-17 04:28:18,Reseller_020,West,Pune,Beauty & Personal Care,3,1399.85,4199.55,Delivered,4199.549999999999
+ORD0690,2026-06-17 12:46:11,Reseller_015,East,Guwahati,Ethnic Wear,1,3288.81,3288.81,Returned,3288.81
+ORD0691,2026-06-24 02:42:34,Reseller_012,South,Hyderabad,Beauty & Personal Care,4,555.69,2222.76,Delivered,2222.76
+ORD0692,2026-06-05 19:18:20,Reseller_022,West,Mumbai,Home & Kitchen,4,3953.15,15812.6,Returned,15812.6
+ORD0693,2026-06-03 01:53:08,Reseller_004,North,Delhi,Ethnic Wear,2,4430.72,8861.44,Delivered,8861.44
+ORD0694,2026-06-04 01:36:41,Reseller_007,South,Chennai,Ethnic Wear,4,3460.65,13842.6,Delivered,13842.6
+ORD0695,2026-06-09 01:23:14,Reseller_017,East,Bhubaneswar,Beauty & Personal Care,5,1822.83,9114.15,Returned,9114.15
+ORD0696,2026-06-30 02:29:51,Reseller_001,North,Delhi,Western Wear,1,1699.33,1699.33,Delivered,1699.33
+ORD0697,2026-06-26 22:03:52,Reseller_024,West,Ahmedabad,Home & Kitchen,5,1815.15,9075.75,Returned,9075.75
+ORD0698,2026-06-03 06:33:06,Reseller_002,North,Jaipur,Ethnic Wear,1,3763.27,3763.27,Returned,3763.27
+ORD0699,2026-06-17 21:15:36,Reseller_018,East,Guwahati,Home & Kitchen,2,3483.01,6966.02,Delivered,6966.02
+ORD0700,2026-06-25 20:36:22,Reseller_018,East,Guwahati,Home & Kitchen,4,4304.54,17218.16,Returned,17218.16
+ORD0701,2026-06-06 17:25:32,Reseller_014,East,Bhubaneswar,Ethnic Wear,3,3458.89,10376.67,Delivered,10376.67
+ORD0702,2026-06-12 10:35:20,Reseller_018,East,Guwahati,Beauty & Personal Care,3,1089.62,3268.86,Delivered,3268.8599999999997
+ORD0703,2026-06-11 19:15:36,Reseller_021,West,Ahmedabad,Home & Kitchen,5,1519.39,7596.95,Returned,7596.950000000001
+ORD0704,2026-06-15 14:25:00,Reseller_018,East,Guwahati,Kids Wear,1,2460.8,2460.8,Delivered,2460.8
+ORD0705,2026-06-29 09:00:19,Reseller_020,West,Pune,Ethnic Wear,2,1466.7,2933.4,Delivered,2933.4
+ORD0706,2026-06-23 08:58:35,Reseller_011,South,Bengaluru,Ethnic Wear,5,3003.45,15017.25,Returned,15017.25
+ORD0707,2026-06-15 11:09:08,Reseller_019,West,Mumbai,Western Wear,3,1721.5,5164.5,Delivered,5164.5
+ORD0708,2026-06-26 09:05:36,Reseller_019,West,Mumbai,Western Wear,4,2448.63,9794.52,Delivered,9794.52
+ORD0709,2026-06-26 15:11:31,Reseller_007,South,Chennai,Ethnic Wear,5,4187.82,20939.1,Returned,20939.1
+ORD0710,2026-06-02 23:51:36,Reseller_004,North,Delhi,Beauty & Personal Care,4,288.35,1153.4,Delivered,1153.4
+ORD0711,2026-06-27 13:26:59,Reseller_002,North,Jaipur,Kids Wear,1,2200.51,2200.51,Delivered,2200.51
+ORD0712,2026-06-21 20:24:03,Reseller_008,South,Bengaluru,Beauty & Personal Care,3,1358.52,4075.56,Cancelled,4075.56
+ORD0713,2026-06-11 16:44:14,Reseller_011,South,Bengaluru,Beauty & Personal Care,2,221.25,442.5,Delivered,442.5
+ORD0714,2026-06-25 19:36:32,Reseller_024,West,Ahmedabad,Home & Kitchen,1,1565.89,1565.89,Pending,1565.89
+ORD0715,2026-06-11 02:30:36,Reseller_010,South,Chennai,Home & Kitchen,1,3424.47,3424.47,Delivered,3424.47
+ORD0716,2026-06-14 22:08:48,Reseller_009,South,Hyderabad,Ethnic Wear,2,2664.15,5328.3,Delivered,5328.3
+ORD0717,2026-06-19 06:35:39,Reseller_007,South,Chennai,Home & Kitchen,5,1703.6,8518.0,Delivered,8518.0
+ORD0718,2026-06-11 21:59:36,Reseller_003,North,Lucknow,Kids Wear,1,458.82,458.82,Returned,458.82
+ORD0719,2026-06-07 10:22:38,Reseller_014,East,Bhubaneswar,Home & Kitchen,1,4687.18,4687.18,Delivered,4687.18
+ORD0720,2026-06-26 14:39:09,Reseller_006,North,Lucknow,Kids Wear,4,303.22,1212.88,Delivered,1212.88
+ORD0721,2026-06-05 23:54:05,Reseller_008,South,Bengaluru,Western Wear,1,3062.49,3062.49,Delivered,3062.49
+ORD0722,2026-06-28 09:00:21,Reseller_008,South,Bengaluru,Beauty & Personal Care,1,832.28,832.28,Cancelled,832.28
+ORD0723,2026-06-24 17:13:13,Reseller_016,East,Kolkata,Ethnic Wear,5,2854.7,14273.5,Delivered,14273.5
+ORD0724,2026-06-24 04:44:44,Reseller_009,South,Hyderabad,Beauty & Personal Care,1,1003.86,1003.86,Delivered,1003.86
+ORD0725,2026-06-06 01:18:12,Reseller_022,West,Mumbai,Beauty & Personal Care,5,751.08,3755.4,Delivered,3755.4
+ORD0726,2026-06-22 08:42:54,Reseller_015,East,Guwahati,Ethnic Wear,3,4389.27,13167.81,Delivered,13167.810000000001
+ORD0727,2026-06-21 12:14:24,Reseller_001,North,Delhi,Kids Wear,5,2446.21,12231.05,Cancelled,12231.05
+ORD0728,2026-06-20 17:05:11,Reseller_004,North,Delhi,Kids Wear,2,1351.5,2703.0,Delivered,2703.0
+ORD0729,2026-06-01 01:15:59,Reseller_015,East,Guwahati,Beauty & Personal Care,5,831.83,4159.15,Cancelled,4159.150000000001
+ORD0730,2026-06-01 11:43:22,Reseller_016,East,Kolkata,Home & Kitchen,3,3863.82,11591.46,Returned,11591.460000000001
+ORD0731,2026-06-02 20:16:56,Reseller_008,South,Bengaluru,Beauty & Personal Care,4,2236.97,8947.88,Delivered,8947.88
+ORD0732,2026-06-08 04:21:57,Reseller_001,North,Delhi,Beauty & Personal Care,4,1676.64,6706.56,Cancelled,6706.56
+ORD0733,2026-06-22 19:55:40,Reseller_003,North,Lucknow,Home & Kitchen,2,2678.8,5357.6,Delivered,5357.6
+ORD0734,2026-06-10 19:21:28,Reseller_019,West,Mumbai,Western Wear,5,874.38,4371.9,Delivered,4371.9
+ORD0735,2026-06-22 06:55:08,Reseller_021,West,Ahmedabad,Western Wear,3,2878.72,8636.16,Delivered,8636.16
+ORD0736,2026-06-30 04:41:59,Reseller_017,East,Bhubaneswar,Western Wear,5,3701.6,18508.0,Delivered,18508.0
+ORD0737,2026-06-24 03:11:20,Reseller_011,South,Bengaluru,Ethnic Wear,2,3771.86,7543.72,Delivered,7543.72
+ORD0738,2026-06-10 14:47:59,Reseller_011,South,Bengaluru,Home & Kitchen,3,1166.16,3498.48,Pending,3498.4800000000005
+ORD0739,2026-06-01 19:39:17,Reseller_007,South,Chennai,Ethnic Wear,5,3051.69,15258.45,Delivered,15258.45
+ORD0740,2026-06-22 00:22:05,Reseller_008,South,Bengaluru,Beauty & Personal Care,4,421.81,1687.24,Delivered,1687.24
+ORD0741,2026-06-12 05:54:24,Reseller_020,West,Pune,Home & Kitchen,4,3000.93,12003.72,Returned,12003.72
+ORD0742,2026-06-14 00:59:17,Reseller_006,North,Lucknow,Western Wear,4,1201.2,4804.8,Delivered,4804.8
+ORD0743,2026-06-03 05:59:28,Reseller_022,West,Mumbai,Western Wear,5,2163.79,10818.95,Returned,10818.95
+ORD0744,2026-06-14 12:49:02,Reseller_011,South,Bengaluru,Home & Kitchen,5,4491.39,22456.95,Cancelled,22456.95
+ORD0745,2026-06-24 18:38:34,Reseller_013,East,Kolkata,Kids Wear,5,1675.21,8376.05,Delivered,8376.05
+ORD0746,2026-06-15 14:52:56,Reseller_023,West,Pune,Ethnic Wear,1,4450.01,4450.01,Delivered,4450.01
+ORD0747,2026-06-24 01:35:24,Reseller_008,South,Bengaluru,Beauty & Personal Care,5,1936.38,9681.9,Delivered,9681.900000000001
+ORD0748,2026-06-13 09:49:52,Reseller_002,North,Jaipur,Western Wear,3,2060.85,6182.55,Delivered,6182.549999999999
+ORD0749,2026-06-02 22:33:57,Reseller_014,East,Bhubaneswar,Kids Wear,2,1266.23,2532.46,Delivered,2532.46
+ORD0750,2026-06-17 03:11:49,Reseller_021,West,Ahmedabad,Home & Kitchen,5,5645.7,28228.5,Delivered,28228.5
+ORD0751,2026-06-14 10:28:01,Reseller_023,West,Pune,Beauty & Personal Care,2,1188.83,2377.66,Delivered,2377.66
+ORD0752,2026-06-03 08:20:44,Reseller_023,West,Pune,Western Wear,2,2986.15,5972.3,Cancelled,5972.3
+ORD0753,2026-06-15 20:23:05,Reseller_004,North,Delhi,Ethnic Wear,5,3682.76,18413.8,Delivered,18413.800000000003
+ORD0754,2026-06-06 12:35:24,Reseller_024,West,Ahmedabad,Beauty & Personal Care,1,1943.82,1943.82,Delivered,1943.82
+ORD0755,2026-06-28 04:10:55,Reseller_011,South,Bengaluru,Beauty & Personal Care,2,529.28,1058.56,Cancelled,1058.56
+ORD0756,2026-06-10 23:49:28,Reseller_023,West,Pune,Ethnic Wear,3,3319.04,9957.12,Delivered,9957.119999999999
+ORD0757,2026-06-01 19:48:16,Reseller_004,North,Delhi,Western Wear,1,2051.11,2051.11,Pending,2051.11
+ORD0758,2026-06-20 15:15:13,Reseller_016,East,Kolkata,Beauty & Personal Care,5,1682.73,8413.65,Returned,8413.65
+ORD0759,2026-06-20 19:00:15,Reseller_015,East,Guwahati,Home & Kitchen,5,1885.24,9426.2,Delivered,9426.2
+ORD0760,2026-06-07 01:11:09,Reseller_021,West,Ahmedabad,Beauty & Personal Care,1,1667.86,1667.86,Returned,1667.86
+ORD0761,2026-06-22 18:53:38,Reseller_002,North,Jaipur,Western Wear,3,1592.0,4776.0,Cancelled,4776.0
+ORD0762,2026-06-06 05:43:18,Reseller_003,North,Lucknow,Ethnic Wear,5,3474.16,17370.8,Delivered,17370.8
+ORD0763,2026-06-18 05:29:47,Reseller_023,West,Pune,Beauty & Personal Care,5,964.45,4822.25,Delivered,4822.25
+ORD0764,2026-06-11 11:57:24,Reseller_002,North,Jaipur,Ethnic Wear,1,3912.99,3912.99,Returned,3912.99
+ORD0765,2026-06-05 03:44:55,Reseller_018,East,Guwahati,Ethnic Wear,3,1981.44,5944.32,Delivered,5944.32
+ORD0766,2026-06-07 19:03:06,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,5,1851.35,9256.75,Delivered,9256.75
+ORD0767,2026-06-16 23:44:38,Reseller_021,West,Ahmedabad,Beauty & Personal Care,3,1124.93,3374.79,Pending,3374.79
+ORD0768,2026-06-20 11:59:08,Reseller_011,South,Bengaluru,Kids Wear,5,1494.06,7470.3,Delivered,7470.299999999999
+ORD0769,2026-06-06 19:14:45,Reseller_017,East,Bhubaneswar,Home & Kitchen,3,5881.77,17645.31,Delivered,17645.31
+ORD0770,2026-06-21 03:47:54,Reseller_001,North,Delhi,Ethnic Wear,2,4098.04,8196.08,Delivered,8196.08
+ORD0771,2026-06-12 17:51:40,Reseller_014,East,Bhubaneswar,Home & Kitchen,2,364.39,728.78,Delivered,728.78
+ORD0772,2026-06-03 09:19:32,Reseller_007,South,Chennai,Kids Wear,5,945.02,4725.1,Delivered,4725.1
+ORD0773,2026-06-11 12:46:36,Reseller_001,North,Delhi,Ethnic Wear,5,4820.51,24102.55,Delivered,24102.550000000003
+ORD0774,2026-06-11 21:30:58,Reseller_006,North,Lucknow,Western Wear,4,3270.12,13080.48,Delivered,13080.48
+ORD0775,2026-06-21 14:57:55,Reseller_021,West,Ahmedabad,Western Wear,5,3625.34,18126.7,Delivered,18126.7
+ORD0776,2026-06-02 16:19:36,Reseller_015,East,Guwahati,Home & Kitchen,3,3464.51,10393.53,Cancelled,10393.53
+ORD0777,2026-06-11 11:04:09,Reseller_001,North,Delhi,Western Wear,3,3426.66,10279.98,Delivered,10279.98
+ORD0778,2026-06-27 05:36:38,Reseller_011,South,Bengaluru,Home & Kitchen,4,1368.06,5472.24,Delivered,5472.24
+ORD0779,2026-06-11 22:02:17,Reseller_004,North,Delhi,Kids Wear,4,399.63,1598.52,Returned,1598.52
+ORD0780,2026-06-10 06:33:19,Reseller_008,South,Bengaluru,Kids Wear,2,458.13,916.26,Delivered,916.26
+ORD0781,2026-06-15 16:01:51,Reseller_002,North,Jaipur,Western Wear,4,3657.84,14631.36,Cancelled,14631.36
+ORD0782,2026-06-16 23:55:33,Reseller_005,North,Jaipur,Western Wear,3,3191.92,9575.76,Delivered,9575.76
+ORD0783,2026-06-17 21:08:13,Reseller_005,North,Jaipur,Ethnic Wear,1,2567.16,2567.16,Returned,2567.16
+ORD0784,2026-06-10 01:43:54,Reseller_023,West,Pune,Beauty & Personal Care,5,2192.5,10962.5,Delivered,10962.5
+ORD0785,2026-06-04 16:49:42,Reseller_011,South,Bengaluru,Home & Kitchen,3,428.14,1284.42,Cancelled,1284.42
+ORD0786,2026-06-07 09:17:34,Reseller_010,South,Chennai,Western Wear,3,3182.03,9546.09,Delivered,9546.09
+ORD0787,2026-06-06 08:07:00,Reseller_022,West,Mumbai,Ethnic Wear,5,3018.32,15091.6,Delivered,15091.6
+ORD0788,2026-06-18 10:17:09,Reseller_004,North,Delhi,Western Wear,3,2466.7,7400.1,Delivered,7400.099999999999
+ORD0789,2026-06-29 10:34:28,Reseller_006,North,Lucknow,Ethnic Wear,1,1085.33,1085.33,Delivered,1085.33
+ORD0790,2026-06-02 02:27:25,Reseller_016,East,Kolkata,Ethnic Wear,2,3671.05,7342.1,Delivered,7342.1
+ORD0791,2026-06-10 10:52:12,Reseller_019,West,Mumbai,Home & Kitchen,5,747.71,3738.55,Delivered,3738.55
+ORD0792,2026-06-27 22:29:06,Reseller_015,East,Guwahati,Beauty & Personal Care,4,844.94,3379.76,Delivered,3379.76
+ORD0793,2026-06-08 04:55:57,Reseller_021,West,Ahmedabad,Home & Kitchen,5,1770.9,8854.5,Delivered,8854.5
+ORD0794,2026-06-30 21:21:50,Reseller_012,South,Hyderabad,Home & Kitchen,3,2883.71,8651.13,Delivered,8651.130000000001
+ORD0795,2026-06-12 15:29:54,Reseller_001,North,Delhi,Ethnic Wear,2,1770.16,3540.32,Delivered,3540.32
+ORD0796,2026-06-17 03:25:52,Reseller_012,South,Hyderabad,Beauty & Personal Care,1,882.09,882.09,Delivered,882.09
+ORD0797,2026-06-18 14:25:37,Reseller_021,West,Ahmedabad,Ethnic Wear,4,1573.59,6294.36,Returned,6294.36
+ORD0798,2026-06-16 12:04:21,Reseller_008,South,Bengaluru,Beauty & Personal Care,2,2053.4,4106.8,Delivered,4106.8
+ORD0799,2026-06-14 18:50:21,Reseller_019,West,Mumbai,Home & Kitchen,5,4256.56,21282.8,Returned,21282.800000000003
+ORD0800,2026-06-23 18:53:31,Reseller_006,North,Lucknow,Ethnic Wear,1,3164.73,3164.73,Returned,3164.73
+ORD0801,2026-06-27 14:11:19,Reseller_015,East,Guwahati,Kids Wear,4,360.1,1440.4,Delivered,1440.4
+ORD0802,2026-06-13 10:31:41,Reseller_004,North,Delhi,Beauty & Personal Care,1,317.28,317.28,Returned,317.28
+ORD0803,2026-06-21 00:48:09,Reseller_005,North,Jaipur,Beauty & Personal Care,2,1187.14,2374.28,Cancelled,2374.28
+ORD0804,2026-06-15 06:13:43,Reseller_010,South,Chennai,Home & Kitchen,3,2008.49,6025.47,Delivered,6025.47
+ORD0805,2026-06-30 13:45:58,Reseller_022,West,Mumbai,Kids Wear,3,2477.67,7433.01,Cancelled,7433.01
+ORD0806,2026-06-17 12:54:08,Reseller_019,West,Mumbai,Ethnic Wear,3,780.85,2342.55,Delivered,2342.55
+ORD0807,2026-06-18 11:07:55,Reseller_018,East,Guwahati,Ethnic Wear,3,4395.56,13186.68,Delivered,13186.68
+ORD0808,2026-06-13 20:20:45,Reseller_008,South,Bengaluru,Home & Kitchen,4,2614.39,10457.56,Returned,10457.56
+ORD0809,2026-06-06 15:08:12,Reseller_014,East,Bhubaneswar,Beauty & Personal Care,5,1023.03,5115.15,Delivered,5115.15
+ORD0810,2026-06-28 21:08:08,Reseller_012,South,Hyderabad,Home & Kitchen,1,708.95,708.95,Delivered,708.95
+ORD0811,2026-06-16 21:27:08,Reseller_001,North,Delhi,Western Wear,1,893.99,893.99,Returned,893.99
+ORD0812,2026-06-23 19:59:27,Reseller_014,East,Bhubaneswar,Home & Kitchen,5,1324.85,6624.25,Cancelled,6624.25
+ORD0813,2026-06-15 12:22:14,Reseller_017,East,Bhubaneswar,Home & Kitchen,2,2721.2,5442.4,Delivered,5442.4
+ORD0814,2026-06-24 07:45:32,Reseller_001,North,Delhi,Beauty & Personal Care,3,1086.01,3258.03,Delivered,3258.0299999999997
+ORD0815,2026-06-02 18:30:45,Reseller_018,East,Guwahati,Beauty & Personal Care,3,371.59,1114.77,Delivered,1114.77
+ORD0816,2026-06-24 16:54:48,Reseller_016,East,Kolkata,Ethnic Wear,3,2592.21,7776.63,Delivered,7776.63
+ORD0817,2026-06-03 07:30:40,Reseller_003,North,Lucknow,Beauty & Personal Care,1,1741.78,1741.78,Cancelled,1741.78
+ORD0818,2026-06-02 10:34:49,Reseller_018,East,Guwahati,Beauty & Personal Care,1,1225.29,1225.29,Delivered,1225.29
+ORD0819,2026-06-11 13:22:51,Reseller_017,East,Bhubaneswar,Home & Kitchen,3,1948.49,5845.47,Delivered,5845.47
+ORD0820,2026-06-24 18:16:03,Reseller_002,North,Jaipur,Beauty & Personal Care,4,1487.54,5950.16,Returned,5950.16
+ORD0821,2026-06-10 23:39:01,Reseller_019,West,Mumbai,Ethnic Wear,3,2681.42,8044.26,Delivered,8044.26
+ORD0822,2026-06-26 08:16:08,Reseller_005,North,Jaipur,Beauty & Personal Care,5,774.33,3871.65,Delivered,3871.65
+ORD0823,2026-06-20 05:58:37,Reseller_009,South,Hyderabad,Ethnic Wear,2,3466.2,6932.4,Returned,6932.4
+ORD0824,2026-06-23 07:31:11,Reseller_012,South,Hyderabad,Western Wear,5,3503.25,17516.25,Delivered,17516.25
+ORD0825,2026-06-20 04:53:31,Reseller_011,South,Bengaluru,Ethnic Wear,4,3966.66,15866.64,Pending,15866.64
+ORD0826,2026-06-06 06:36:46,Reseller_008,South,Bengaluru,Home & Kitchen,3,609.66,1828.98,Returned,1828.98
+ORD0827,2026-06-15 12:30:19,Reseller_009,South,Hyderabad,Ethnic Wear,4,3857.68,15430.72,Delivered,15430.72
+ORD0828,2026-06-23 12:30:16,Reseller_018,East,Guwahati,Western Wear,2,2309.59,4619.18,Delivered,4619.18
+ORD0829,2026-06-26 14:24:43,Reseller_014,East,Bhubaneswar,Ethnic Wear,3,4827.93,14483.79,Delivered,14483.79
+ORD0830,2026-06-18 20:22:54,Reseller_022,West,Mumbai,Ethnic Wear,4,3247.19,12988.76,Delivered,12988.76
+ORD0831,2026-06-09 03:16:41,Reseller_021,West,Ahmedabad,Kids Wear,5,1099.65,5498.25,Delivered,5498.25
+ORD0832,2026-06-19 06:33:21,Reseller_022,West,Mumbai,Western Wear,2,1527.77,3055.54,Returned,3055.54
+ORD0833,2026-06-01 13:06:33,Reseller_001,North,Delhi,Ethnic Wear,1,3584.75,3584.75,Returned,3584.75
+ORD0834,2026-06-09 06:02:01,Reseller_012,South,Hyderabad,Western Wear,5,730.99,3654.95,Returned,3654.95
+ORD0835,2026-06-21 03:45:07,Reseller_020,West,Pune,Western Wear,1,3483.19,3483.19,Pending,3483.19
+ORD0836,2026-06-29 20:36:51,Reseller_005,North,Jaipur,Home & Kitchen,2,5407.21,10814.42,Delivered,10814.42
+ORD0837,2026-06-15 21:59:04,Reseller_023,West,Pune,Western Wear,4,3721.7,14886.8,Delivered,14886.8
+ORD0838,2026-06-22 10:16:10,Reseller_009,South,Hyderabad,Home & Kitchen,1,1880.54,1880.54,Delivered,1880.54
+ORD0839,2026-06-02 08:52:16,Reseller_002,North,Jaipur,Home & Kitchen,2,2811.28,5622.56,Delivered,5622.56
+ORD0840,2026-06-06 20:31:06,Reseller_016,East,Kolkata,Western Wear,2,2346.28,4692.56,Delivered,4692.56
+ORD0841,2026-06-04 14:45:16,Reseller_014,East,Bhubaneswar,Western Wear,1,525.5,525.5,Delivered,525.5
+ORD0842,2026-06-25 14:01:57,Reseller_003,North,Lucknow,Beauty & Personal Care,4,457.25,1829.0,Returned,1829.0
+ORD0843,2026-06-22 12:17:09,Reseller_021,West,Ahmedabad,Ethnic Wear,3,4570.78,13712.34,Cancelled,13712.34
+ORD0844,2026-06-25 15:30:27,Reseller_019,West,Mumbai,Ethnic Wear,4,4298.22,17192.88,Delivered,17192.88
+ORD0845,2026-06-13 22:52:49,Reseller_003,North,Lucknow,Beauty & Personal Care,4,390.89,1563.56,Delivered,1563.56
+ORD0846,2026-06-10 12:03:40,Reseller_018,East,Guwahati,Kids Wear,1,1040.32,1040.32,Delivered,1040.32
+ORD0847,2026-06-25 09:41:12,Reseller_011,South,Bengaluru,Ethnic Wear,2,2995.14,5990.28,Returned,5990.28
+ORD0848,2026-06-13 03:40:44,Reseller_013,East,Kolkata,Western Wear,3,2151.41,6454.23,Delivered,6454.23
+ORD0849,2026-06-05 01:12:01,Reseller_021,West,Ahmedabad,Home & Kitchen,5,1659.37,8296.85,Returned,8296.849999999999
+ORD0850,2026-06-21 09:31:34,Reseller_013,East,Kolkata,Ethnic Wear,4,4849.58,19398.32,Returned,19398.32
+ORD0851,2026-06-11 23:02:25,Reseller_001,North,Delhi,Ethnic Wear,1,1452.55,1452.55,Delivered,1452.55
+ORD0852,2026-06-22 17:09:47,Reseller_021,West,Ahmedabad,Beauty & Personal Care,5,659.17,3295.85,Delivered,3295.85
+ORD0853,2026-06-16 20:01:30,Reseller_003,North,Lucknow,Ethnic Wear,5,706.11,3530.55,Returned,3530.55
+ORD0854,2026-06-21 01:57:19,Reseller_023,West,Pune,Western Wear,1,2042.26,2042.26,Delivered,2042.26
+ORD0855,2026-06-27 03:07:31,Reseller_006,North,Lucknow,Beauty & Personal Care,5,2018.02,10090.1,Delivered,10090.1
+ORD0856,2026-06-14 10:51:53,Reseller_008,South,Bengaluru,Ethnic Wear,4,1959.06,7836.24,Returned,7836.24
+ORD0857,2026-06-11 06:48:02,Reseller_022,West,Mumbai,Beauty & Personal Care,5,516.27,2581.35,Delivered,2581.35
+ORD0858,2026-06-25 13:10:44,Reseller_003,North,Lucknow,Ethnic Wear,3,2990.33,8970.99,Delivered,8970.99
+ORD0859,2026-06-02 04:06:50,Reseller_015,East,Guwahati,Western Wear,5,1754.07,8770.35,Cancelled,8770.35
+ORD0860,2026-06-03 00:00:11,Reseller_006,North,Lucknow,Ethnic Wear,1,3680.34,3680.34,Cancelled,3680.34
+ORD0861,2026-06-26 15:44:08,Reseller_019,West,Mumbai,Kids Wear,2,529.1,1058.2,Delivered,1058.2
+ORD0862,2026-06-08 05:39:44,Reseller_009,South,Hyderabad,Beauty & Personal Care,1,1531.05,1531.05,Delivered,1531.05
+ORD0863,2026-06-03 20:52:50,Reseller_023,West,Pune,Home & Kitchen,3,2282.77,6848.31,Delivered,6848.3099999999995
+ORD0864,2026-06-04 16:06:39,Reseller_001,North,Delhi,Beauty & Personal Care,3,2170.55,6511.65,Delivered,6511.650000000001
+ORD0865,2026-06-25 20:42:13,Reseller_018,East,Guwahati,Beauty & Personal Care,3,227.37,682.11,Delivered,682.11
+ORD0866,2026-06-30 15:31:11,Reseller_004,North,Delhi,Western Wear,2,2812.51,5625.02,Delivered,5625.02
+ORD0867,2026-06-10 06:27:16,Reseller_002,North,Jaipur,Ethnic Wear,3,3275.69,9827.07,Delivered,9827.07
+ORD0868,2026-06-02 17:11:10,Reseller_015,East,Guwahati,Ethnic Wear,1,2682.78,2682.78,Delivered,2682.78
+ORD0869,2026-06-24 14:37:37,Reseller_004,North,Delhi,Ethnic Wear,3,2385.8,7157.4,Cancelled,7157.400000000001
+ORD0870,2026-06-04 10:14:06,Reseller_024,West,Ahmedabad,Kids Wear,2,1896.82,3793.64,Delivered,3793.64
+ORD0871,2026-06-03 15:37:31,Reseller_007,South,Chennai,Home & Kitchen,1,5375.79,5375.79,Cancelled,5375.79
+ORD0872,2026-06-15 05:24:23,Reseller_005,North,Jaipur,Western Wear,2,2047.86,4095.72,Cancelled,4095.72
+ORD0873,2026-06-07 10:08:02,Reseller_007,South,Chennai,Kids Wear,5,337.2,1686.0,Pending,1686.0
+ORD0874,2026-06-15 13:10:48,Reseller_005,North,Jaipur,Ethnic Wear,3,1489.34,4468.02,Cancelled,4468.0199999999995
+ORD0875,2026-06-26 20:39:57,Reseller_010,South,Chennai,Beauty & Personal Care,2,1487.49,2974.98,Delivered,2974.98
+ORD0876,2026-06-28 16:31:55,Reseller_018,East,Guwahati,Western Wear,2,2529.69,5059.38,Delivered,5059.38
+ORD0877,2026-06-14 23:55:15,Reseller_015,East,Guwahati,Kids Wear,2,952.78,1905.56,Delivered,1905.56
+ORD0878,2026-06-19 04:58:36,Reseller_019,West,Mumbai,Western Wear,1,1903.98,1903.98,Cancelled,1903.98
+ORD0879,2026-06-24 16:02:27,Reseller_002,North,Jaipur,Ethnic Wear,5,2274.44,11372.2,Pending,11372.2
+ORD0880,2026-06-08 02:35:48,Reseller_023,West,Pune,Ethnic Wear,1,3619.22,3619.22,Delivered,3619.22
+ORD0881,2026-06-10 07:41:05,Reseller_014,East,Bhubaneswar,Western Wear,1,2127.22,2127.22,Delivered,2127.22
+ORD0882,2026-06-28 18:47:37,Reseller_010,South,Chennai,Western Wear,1,3915.11,3915.11,Returned,3915.11
+ORD0883,2026-06-13 05:50:55,Reseller_015,East,Guwahati,Western Wear,3,2656.52,7969.56,Cancelled,7969.5599999999995
+ORD0884,2026-06-03 12:57:44,Reseller_023,West,Pune,Ethnic Wear,3,2889.14,8667.42,Cancelled,8667.42
+ORD0885,2026-06-23 19:34:36,Reseller_010,South,Chennai,Home & Kitchen,2,4789.84,9579.68,Returned,9579.68
+ORD0886,2026-06-24 01:32:58,Reseller_003,North,Lucknow,Beauty & Personal Care,3,2231.15,6693.45,Cancelled,6693.450000000001
+ORD0887,2026-06-20 01:23:23,Reseller_004,North,Delhi,Home & Kitchen,2,3994.58,7989.16,Delivered,7989.16
+ORD0888,2026-06-25 06:08:21,Reseller_023,West,Pune,Ethnic Wear,2,2928.35,5856.7,Delivered,5856.7
+ORD0889,2026-06-25 18:55:44,Reseller_021,West,Ahmedabad,Home & Kitchen,2,4593.09,9186.18,Returned,9186.18
+ORD0890,2026-06-09 16:43:27,Reseller_008,South,Bengaluru,Kids Wear,3,325.26,975.78,Delivered,975.78
+ORD0891,2026-06-17 16:53:07,Reseller_012,South,Hyderabad,Kids Wear,4,1832.6,7330.4,Delivered,7330.4
+ORD0892,2026-06-15 19:23:51,Reseller_022,West,Mumbai,Beauty & Personal Care,1,552.05,552.05,Cancelled,552.05
+ORD0893,2026-06-29 05:18:04,Reseller_015,East,Guwahati,Ethnic Wear,1,1241.45,1241.45,Delivered,1241.45
+ORD0894,2026-06-28 06:33:40,Reseller_004,North,Delhi,Western Wear,1,1455.41,1455.41,Delivered,1455.41
+ORD0895,2026-06-16 11:26:28,Reseller_022,West,Mumbai,Beauty & Personal Care,1,799.64,799.64,Cancelled,799.64
+ORD0896,2026-06-08 16:41:21,Reseller_003,North,Lucknow,Ethnic Wear,4,3104.17,12416.68,Cancelled,12416.68
+ORD0897,2026-06-22 22:33:53,Reseller_021,West,Ahmedabad,Kids Wear,5,1224.09,6120.45,Delivered,6120.45
+ORD0898,2026-06-26 09:10:50,Reseller_010,South,Chennai,Beauty & Personal Care,3,644.28,1932.84,Delivered,1932.84
+ORD0899,2026-06-02 04:22:18,Reseller_012,South,Hyderabad,Kids Wear,4,2399.29,9597.16,Returned,9597.16
+ORD0900,2026-06-10 05:11:53,Reseller_020,West,Pune,Western Wear,2,980.52,1961.04,Returned,1961.04

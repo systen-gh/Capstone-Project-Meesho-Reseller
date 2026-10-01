@@ -1,0 +1,41 @@
+PROJECT OBJECTIVES
+============================================================
+
+The main objective of this capstone project is to develop a
+reliable, structured, and evidence-based revenue analysis
+workflow for a Meesho reseller business.
+
+The specific objectives are:
+
+1. Analyze reseller order data using SQL and SQLite.
+
+2. Generate verified business reports covering revenue,
+   orders, categories, regions, reseller spending, and
+   average order value.
+
+3. Calculate month-on-month revenue growth using a defined
+   and repeatable Python-based Growth Engine.
+
+4. Apply a clear threshold-based rule to identify significant
+   positive revenue movements.
+
+5. Generate concise business narratives using only verified
+   analytical results.
+
+6. Separate factual observations from management considerations
+   and avoid unsupported explanations.
+
+7. Apply reseller ID masking to reduce exposure of identifiable
+   reseller information in analytical outputs.
+
+8. Validate analytical results and narrative outputs through
+   automated checks.
+
+9. Test the revenue analysis agent using both successful and
+   failure scenarios.
+
+10. Create a complete and traceable workflow from source data
+    through analysis, validation, and business reporting.
+
+11. Document the project's methodology, results, limitations,
+    reliability controls, and possible future enhancements.

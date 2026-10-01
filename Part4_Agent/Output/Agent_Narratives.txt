@@ -1,0 +1,66 @@
+RELIABLE AI NARRATIVE REPORT
+============================================================
+
+MAY FLAGGED CATEGORIES
+============================================================
+
+Category: Beauty & Personal Care
+------------------------------------------------------------
+Context:
+Beauty & Personal Care revenue increased from April 2026 to May 2026. The verified MoM growth is 13.64%, and the category is flagged.
+
+Insight:
+Revenue changed from 207421.46 to 235710.83, resulting in a 13.64% month-on-month change.
+
+Implication:
+Management may review order volume, product availability, returns and cancellations to understand the revenue movement. No specific cause should be assumed without supporting data.
+
+Validation:
+{'category_verified': True, 'period_verified': True, 'revenue_verified': True, 'growth_verified': True, 'flag_status': 'flagged'}
+
+Category: Ethnic Wear
+------------------------------------------------------------
+Context:
+Ethnic Wear revenue increased from April 2026 to May 2026. The verified MoM growth is 17.00%, and the category is flagged.
+
+Insight:
+Revenue changed from 421858.43 to 493572.34, resulting in a 17.00% month-on-month change.
+
+Implication:
+Management may review order volume, product availability, returns and cancellations to understand the revenue movement. No specific cause should be assumed without supporting data.
+
+Validation:
+{'category_verified': True, 'period_verified': True, 'revenue_verified': True, 'growth_verified': True, 'flag_status': 'flagged'}
+
+Category: Western Wear
+------------------------------------------------------------
+Context:
+Western Wear revenue increased from April 2026 to May 2026. The verified MoM growth is 9.63%, and the category is flagged.
+
+Insight:
+Revenue changed from 391501.83 to 429203.55, resulting in a 9.63% month-on-month change.
+
+Implication:
+Management may review order volume, product availability, returns and cancellations to understand the revenue movement. No specific cause should be assumed without supporting data.
+
+Validation:
+{'category_verified': True, 'period_verified': True, 'revenue_verified': True, 'growth_verified': True, 'flag_status': 'flagged'}
+
+
+JUNE FLAGGED CATEGORIES
+============================================================
+
+Category: Ethnic Wear
+------------------------------------------------------------
+Context:
+Ethnic Wear revenue increased from May 2026 to June 2026. The verified MoM growth is 35.48%, and the category is flagged.
+
+Insight:
+Revenue changed from 493572.34 to 668716.09, resulting in a 35.48% month-on-month change.
+
+Implication:
+Management may review order volume, product availability, returns and cancellations to understand the revenue movement. No specific cause should be assumed without supporting data.
+
+Validation:
+{'category_verified': True, 'period_verified': True, 'revenue_verified': True, 'growth_verified': True, 'flag_status': 'flagged'}
+

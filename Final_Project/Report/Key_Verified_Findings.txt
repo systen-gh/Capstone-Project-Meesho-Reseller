@@ -1,0 +1,218 @@
+KEY VERIFIED FINDINGS
+=====================
+
+Meesho Reseller — Reliable Revenue Analytics Capstone Project
+
+1. DATASET SUMMARY
+------------------
+
+Total Orders: 900
+
+Analysis Period:
+April 2026 to June 2026
+
+Monthly Orders:
+April 2026: 300
+May 2026: 300
+June 2026: 300
+
+Total Resellers: 24
+Total Regions: 4
+Cities per Region: 3
+
+Duplicate Order IDs:
+0
+
+
+2. CATEGORY-LEVEL MONTH-ON-MONTH GROWTH
+----------------------------------------
+
+May 2026 compared with April 2026:
+
+Beauty & Personal Care:
+April Revenue: 207421.46
+May Revenue: 235710.83
+MoM Growth: 13.64%
+Flag: flagged
+
+Ethnic Wear:
+April Revenue: 421858.43
+May Revenue: 493572.34
+MoM Growth: 17.00%
+Flag: flagged
+
+Home & Kitchen:
+April Revenue: 619987.73
+May Revenue: 494285.21
+MoM Growth: -20.28%
+Flag: not_flagged
+
+Kids Wear:
+April Revenue: 241899.28
+May Revenue: 243977.89
+MoM Growth: 0.86%
+Flag: not_flagged
+
+Western Wear:
+April Revenue: 391501.83
+May Revenue: 429203.55
+MoM Growth: 9.63%
+Flag: flagged
+
+
+3. JUNE MONTH-ON-MONTH GROWTH
+-----------------------------
+
+June 2026 compared with May 2026:
+
+Beauty & Personal Care:
+May Revenue: 235710.83
+June Revenue: 238323.37
+MoM Growth: 1.11%
+Flag: not_flagged
+
+Ethnic Wear:
+May Revenue: 493572.34
+June Revenue: 668716.09
+MoM Growth: 35.48%
+Flag: flagged
+
+Home & Kitchen:
+May Revenue: 494285.21
+June Revenue: 479068.32
+MoM Growth: -3.08%
+Flag: not_flagged
+
+Kids Wear:
+May Revenue: 243977.89
+June Revenue: 186472.78
+MoM Growth: -23.57%
+Flag: not_flagged
+
+Western Wear:
+May Revenue: 429203.55
+June Revenue: 382377.37
+MoM Growth: -10.91%
+Flag: not_flagged
+
+
+4. FLAGGING RULE
+----------------
+
+The Growth Engine uses an 8% threshold.
+
+MoM Growth greater than 8%:
+flagged
+
+MoM Growth equal to 8%:
+escalate_exact_boundary
+
+MoM Growth below 8%:
+not_flagged
+
+Negative growth is not automatically flagged under this rule.
+
+
+5. MAY FLAGGED CATEGORIES
+-------------------------
+
+Beauty & Personal Care: +13.64%
+Ethnic Wear: +17.00%
+Western Wear: +9.63%
+
+
+6. JUNE FLAGGED CATEGORIES
+--------------------------
+
+Ethnic Wear: +35.48%
+
+
+7. DATA MASKING
+---------------
+
+Part 3 masks reseller identifiers before downstream analytical use.
+
+The masked output is:
+
+Part3_Narrative\output\Masked_Orders.csv
+
+The masking process excludes the original reseller name from the masked analytical view.
+
+The original-to-masked identifier mapping is maintained separately.
+
+
+8. AGENT VALIDATION
+-------------------
+
+Part 4 generated the revenue analysis narrative successfully.
+
+Verified validation results:
+
+Output file exists: True
+May categories verified: True
+June category verified: True
+Growth percentages verified: True
+
+Agent validation PASSED.
+
+
+9. NEGATIVE TEST
+----------------
+
+The Part 4 input Growth Engine output was temporarily made unavailable.
+
+The agent responded:
+
+ERROR: Required Growth Engine output file is missing.
+Agent execution stopped safely.
+
+This confirms that the agent does not continue processing when a required input file is unavailable.
+
+
+10. RELIABILITY PRINCIPLES
+--------------------------
+
+The project follows these principles:
+
+- Use verified source data.
+- Preserve calculated values.
+- Apply deterministic business rules.
+- Do not invent unsupported causes.
+- Validate inputs and outputs.
+- Mask reseller identifiers before downstream analysis.
+- Clearly distinguish facts from management considerations.
+- Stop safely when required inputs are unavailable.
+
+
+11. API REQUIREMENT
+-------------------
+
+The complete project runs locally.
+
+No external API key is required.
+
+The project uses:
+
+- Python
+- Pandas
+- SQLite
+- SQL
+- Local/mock agent processing
+- Validation rules
+
+
+12. IMPORTANT INTERPRETATION NOTE
+---------------------------------
+
+A flagged category indicates that the verified MoM growth exceeded the configured 8% threshold.
+
+The flag does not identify the business reason for the revenue movement.
+
+Further investigation may be required using additional data such as:
+
+- Order volume
+- Product availability
+- Returns
+- Cancellations
+- Pricing
+- Reseller activity

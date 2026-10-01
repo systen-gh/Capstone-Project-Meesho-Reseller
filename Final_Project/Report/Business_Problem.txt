@@ -1,0 +1,30 @@
+BUSINESS PROBLEM
+============================================================
+
+A reseller-based e-commerce business generates a large volume
+of order and revenue data across different months, regions,
+resellers, and product categories. Without a structured
+analytical process, it can be difficult to identify important
+revenue movements, compare business performance, and communicate
+findings clearly to management.
+
+The project addresses the need for a reliable analytical
+workflow that can:
+
+- Analyze reseller order and revenue data systematically.
+- Compare revenue performance across months.
+- Identify significant month-on-month category movements.
+- Compare revenue performance across regions.
+- Identify high-spending resellers.
+- Calculate relevant business performance measures.
+- Present verified numerical findings in clear business language.
+- Protect reseller-related information through data masking.
+- Validate analytical and narrative outputs before reporting them.
+
+The key challenge is not only to produce analytical results, but
+also to ensure that the results are accurate, traceable, and
+communicated without introducing unsupported explanations.
+
+Therefore, the project combines SQL analysis, Python-based
+growth calculations, reliable narrative generation, data
+masking, and agent validation into a single end-to-end workflow.

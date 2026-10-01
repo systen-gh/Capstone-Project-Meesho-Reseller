@@ -1,0 +1,278 @@
+DATA PRIVACY AND RELIABILITY
+============================
+
+Meesho Reseller — Reliable Revenue Analytics Capstone Project
+
+
+1. PURPOSE
+----------
+
+The project is designed to communicate verified revenue information safely while reducing the risk of unsupported conclusions.
+
+Reliability is maintained through:
+
+- Deterministic calculations
+- Data validation
+- Rule-based flagging
+- Data masking
+- Structured narrative generation
+- Agent validation
+- Negative testing
+- Safe failure handling
+
+
+2. DATA PRIVACY AND MASKING
+---------------------------
+
+Part 3 applies reseller identifier masking before downstream analytical use.
+
+The masking process creates a separate mapping between the original reseller identifier and a masked identifier.
+
+Example:
+
+Original Reseller ID
+        ↓
+Masked Reseller ID
+        ↓
+Reseller_001
+Reseller_002
+Reseller_003
+
+The masked analytical view does not expose the original reseller name.
+
+Output:
+
+Part3_Narrative\output\Masked_Orders.csv
+
+The original-to-masked mapping is maintained separately.
+
+Important limitation:
+
+Masking is a privacy protection technique but does not represent complete anonymization because the mapping can potentially reconnect masked identifiers with the original identifiers.
+
+
+3. DATA VALIDATION
+------------------
+
+The project validates important data conditions before analytical processing.
+
+Validation includes:
+
+- Duplicate Order ID checking
+- Required column checking
+- Empty data checking
+- Numeric revenue validation
+- Negative revenue validation
+- MoM growth validation
+- Input file existence checking
+
+
+4. GROWTH ENGINE RELIABILITY
+----------------------------
+
+Part 2 calculates Month-on-Month revenue growth using a deterministic formula.
+
+Formula:
+
+MoM Growth % =
+((Current Revenue - Previous Revenue) / Previous Revenue) × 100
+
+The result is rounded to two decimal places.
+
+The Growth Engine applies a defined 8% threshold.
+
+Rules:
+
+MoM Growth > 8%
+→ flagged
+
+MoM Growth = 8%
+→ escalate_exact_boundary
+
+MoM Growth < 8%
+→ not_flagged
+
+Negative growth is not automatically classified as flagged under this rule.
+
+
+5. NARRATIVE RELIABILITY
+------------------------
+
+Part 3 uses a structured narrative format:
+
+Context
+Insight
+Implication
+
+The narrative must:
+
+- Use verified figures.
+- Preserve the calculated growth percentage.
+- Avoid inventing business causes.
+- Avoid unsupported trends.
+- Clearly identify when further investigation is required.
+- Separate numerical facts from management considerations.
+
+The narrative is intended to communicate verified information rather than generate unsupported explanations.
+
+
+6. AGENT RELIABILITY
+--------------------
+
+Part 4 implements a local/mock revenue analysis agent.
+
+The agent receives verified analytical information and generates a structured business narrative.
+
+Before accepting the output, the agent validates:
+
+- Output file existence
+- May category results
+- June category result
+- Growth percentages
+- Period consistency
+- Source data consistency
+
+
+7. AGENT VALIDATION RESULT
+--------------------------
+
+The final agent validation produced:
+
+Output file exists: True
+May categories verified: True
+June category verified: True
+Growth percentages verified: True
+
+Agent validation PASSED.
+
+
+8. NEGATIVE TESTING
+-------------------
+
+A negative test was performed by making the required Growth Engine input file unavailable.
+
+The agent correctly detected the missing input and stopped execution.
+
+Observed result:
+
+ERROR: Required Growth Engine output file is missing.
+Agent execution stopped safely.
+
+This demonstrates that the agent does not continue processing when a required input is unavailable.
+
+
+9. SAFE FAILURE
+---------------
+
+Safe failure means the system should stop rather than produce potentially unreliable results when a required dependency is missing or invalid.
+
+The project demonstrates this behavior through the Part 4 missing-input test.
+
+Expected principle:
+
+Missing or invalid required input
+        ↓
+Validation failure
+        ↓
+Stop processing
+        ↓
+Report the problem
+        ↓
+Do not generate unsupported results
+
+
+10. VERIFIED NUMBERS VS. ASSUMPTIONS
+------------------------------------
+
+The project separates verified numerical information from possible business explanations.
+
+For example:
+
+Verified fact:
+Ethnic Wear revenue increased by 35.48% from May to June 2026.
+
+The system does not automatically conclude why the increase occurred.
+
+Possible areas for further investigation may include:
+
+- Order volume
+- Product availability
+- Returns
+- Cancellations
+- Pricing
+- Reseller activity
+
+These are investigation areas, not confirmed causes.
+
+
+11. ZERO API KEY ARCHITECTURE
+----------------------------
+
+The complete project operates locally.
+
+No external API key is required.
+
+The workflow uses:
+
+- Python
+- Pandas
+- SQLite
+- SQL
+- Local files
+- Deterministic calculations
+- Local/mock agent processing
+
+This provides a reproducible environment for demonstrating the project workflow.
+
+
+12. RELIABILITY PRINCIPLES
+--------------------------
+
+The project follows these core principles:
+
+1. Use verified source data.
+2. Do not change verified numerical results.
+3. Use deterministic calculations wherever possible.
+4. Apply explicit business rules.
+5. Validate inputs before processing.
+6. Validate outputs after processing.
+7. Do not invent missing information.
+8. Do not assume business causes without supporting evidence.
+9. Protect reseller identifiers through masking.
+10. Stop safely when required inputs are unavailable.
+11. Clearly communicate limitations.
+12. Maintain traceability between analytical results and source data.
+
+
+13. OVERALL RELIABILITY FLOW
+----------------------------
+
+Verified Data
+      ↓
+Validation
+      ↓
+SQL Analysis
+      ↓
+Deterministic Growth Calculation
+      ↓
+Rule-Based Flagging
+      ↓
+Data Masking
+      ↓
+Structured Narrative
+      ↓
+Agent Validation
+      ↓
+Validated Business Output
+
+
+14. CONCLUSION
+--------------
+
+The project demonstrates that revenue analytics can combine traditional data processing with reliable AI-style workflows while maintaining validation and control.
+
+The key reliability principle is:
+
+"Communicate verified numbers safely."
+
+The system prioritizes accuracy, traceability, privacy protection and safe failure over unsupported automated conclusions.
