@@ -16,6 +16,9 @@ env/
 data/*.csv
 data/*.db
 
+# Allow synthetic capstone dataset to be published
+!data/reseller_orders_apr_may_jun_2026.csv
+
 # VS Code
 .vscode/
 
