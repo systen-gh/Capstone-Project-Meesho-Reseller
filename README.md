@@ -63,6 +63,12 @@ The dataset contains **900 reseller orders** covering:
 - May 2026
 - June 2026
 
+### Dataset Notice
+
+The dataset included in this repository is a synthetic dataset generated specifically for this student capstone project. It does not contain real customer, reseller, financial, or confidential company data.
+
+The dataset is provided so that reviewers can reproduce and understand the SQL analysis, Growth Engine, narrative generation, and revenue analysis workflow.
+
 ### Dataset Structure
 
 | Attribute | Description |
